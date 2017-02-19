@@ -19203,130 +19203,130 @@
 ## Facebook 脸谱网
 2a03:2880:f102:83:face:b00c::25de facebook.com
 2a03:2880:f102:83:face:b00c::25de www.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 0-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 1-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 2-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 3-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 4-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 5-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 6-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 api.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 api-read.facebook.com #api.facebook.com
-2a03:2880:f001:6:face:b00c::2 apps.facebook.com #star.facebook.com
-2a03:2880:f001:6:face:b00c::2 attachments.facebook.com #star.c10r.facebook.com
-2a03:2880:f101:84:face:b00c::14c9 b-api.facebook.com #z-m.facebook.com
-2a03:2880:f10d:184:face:b00c::14c9 b-graph.facebook.com #z-m.facebook.com
-2a03:2880:f001:6:face:b00c::2 check6.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 code.facebook.com #star.facebook.com
-2a03:2880:f10d:183:face:b00c::25de connect.facebook.com #www.facebook.com
-2a03:2880:f00d:110:face:b00c::2 developers.facebook.com #star.facebook.com
-2a03:2880:f001:6:face:b00c::2 graph.facebook.com #api.facebook.com
-2a03:2880:f001:6:face:b00c::2 login.facebook.com #star.facebook.com
-2a03:2880:f101:83:face:b00c::25de m.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:10b:face:b00c::8e mqtt.facebook.com #mqtt.vvv.facebook.com
-2a03:2880:f00d:10b:face:b00c::8e edge-mqtt.facebook.com #mqtt.c10r.facebook.com
-2a03:2880:f101:83:face:b00c::25de pixel.facebook.com #star.facebook.com
-2a03:2880:f001:6:face:b00c::2 star.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 upload.facebook.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 zh-cn.facebook.com #star.facebook.com
-0.0.0.0 zh-tw.facebook.com #star.facebook.com
-0.0.0.0 star.c10r.facebook.com
-2a03:2880:f101:81:face:b00c::e17 snaptu-z.facebook.com #snaptu-mini.c10r.facebook.com
-0.0.0.0 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
-2a03:2880:f001:a0:face:b00c::4382 snaptu-p2.facebook.com #snaptu-p2.c10r.facebook.com
-2a03:2880:2020:8f06:face:b00c::12e vupload.facebook.com #vupload2.facebook.com
-2a03:2880:2020:8f06:face:b00c::12e vupload2.vvv.facebook.com
-2a03:2880:f00d:115:face:b00c::3 bigzipfiles.facebook.com
-2a03:2880:f00d:115:face:b00c::3 staticxx.facebook.com
-2a03:2880:20:8f08:face:b00c::1 apps.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c::1 m.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:1010:5f07:face:b00c::12c pixel.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:1010:5f07:face:b00c::12c www.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c::1 v6.vvv.facebook.com
-2a03:2880:f00d:110:face:b00c::2 attachment.fbsbx.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 0-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 1-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 2-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 3-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 4-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 5-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 6-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 api.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 api-read.facebook.com #api.facebook.com
+2a03:2880:f002:109:face:b00c::2 apps.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 attachments.facebook.com #star.c10r.facebook.com
+2a03:2880:f102:84:face:b00c::14c9 b-api.facebook.com #z-m.facebook.com
+2a03:2880:f102:84:face:b00c::14c9 b-graph.facebook.com #z-m.facebook.com
+2a03:2880:f002:109:face:b00c::2 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 code.facebook.com #star.facebook.com
+2a03:2880:f102:83:face:b00c::25de connect.facebook.com #www.facebook.com
+2a03:2880:f002:109:face:b00c::2 developers.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 graph.facebook.com #api.facebook.com
+2a03:2880:f002:109:face:b00c::2 login.facebook.com #star.facebook.com
+2a03:2880:f102:83:face:b00c::25de m.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:105:face:b00c::8e mqtt.facebook.com #mqtt.vvv.facebook.com
+2a03:2880:f002:105:face:b00c::8e edge-mqtt.facebook.com #mqtt.c10r.facebook.com
+2a03:2880:f102:83:face:b00c::25de pixel.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 star.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 upload.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 zh-cn.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 zh-tw.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 star.c10r.facebook.com
+2a03:2880:f102:81:face:b00c::e17 snaptu-z.facebook.com #snaptu-mini.c10r.facebook.com
+2a03:2880:f002:107:face:b00c::4381 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
+2a03:2880:f002:1a0:face:b00c::4382 snaptu-p2.facebook.com #snaptu-p2.c10r.facebook.com
+2a03:2880:2030:6f03:face:b00c::12e vupload.facebook.com #vupload2.facebook.com
+2a03:2880:2030:6f03:face:b00c::12e vupload2.vvv.facebook.com
+2a03:2880:f002:110:face:b00c::3 bigzipfiles.facebook.com
+2a03:2880:f002:110:face:b00c::3 staticxx.facebook.com
+2a03:2880:20:cf04:face:b00c::12c apps.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:21:f08:face:b00c::12c m.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:21:f08:face:b00c::12c pixel.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:cf04:face:b00c::12c www.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:cf04:face:b00c::12c v6.vvv.facebook.com
+2a03:2880:f002:109:face:b00c::2 attachment.fbsbx.com #star.c10r.facebook.com
 #2600:1417:9::b833:faa static.ak.facebook.com
 #2600:1406:3:18b::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 #2610:d0:face::9 www.lisp6.facebook.com
 #2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
-2a03:2880:f001:6:face:b00c::2 www.messenger.com #star.c10r.facebook.com
-2a03:2880:f001:6:face:b00c::2 messenger.com
-2a03:2880:f00d:110:face:b00c::2 edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c::2 0-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c::2 1-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c::2 2-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c::2 3-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c::2 4-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c::2 5-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c::2 6-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f101:83:face:b00c::25de www.fb.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 www.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 messenger.com
+2a03:2880:f002:109:face:b00c::2 edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 0-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 1-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 2-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 3-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 4-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 5-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 6-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f102:83:face:b00c::25de www.fb.com #star.c10r.facebook.com
 2a03:2880:f102:83:face:b00c::25de fb.com
 #2600:1406:3:18b::172d investor.fb.com #e5933.dscb.akamaiedge.net
-2a03:2880:f00d:110:face:b00c::2 thefacebook.com
-2a03:2880:f10d:183:face:b00c::25de www.thefacebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 thefacebook.com
+2a03:2880:f102:83:face:b00c::25de www.thefacebook.com #star.c10r.facebook.com
 
 ## fbcdn.net
-2a03:2880:f00d:115:face:b00c::3 connect.facebook.net #connect.facebook.net.edgekey.net
-2620:10e:6000:4::c71a:fedb creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
-2620:10e:6000:4::c71a:fed9 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
-2620:10e:6000:4::c71a:fedb platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
-2610:18:f00:6::d174:974a profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
+2a03:2880:f002:110:face:b00c::3 connect.facebook.net #connect.facebook.net.edgekey.net
+2600:1417:9::6007:3623 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3653 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
+2600:1417:9::6007:3619 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
+2600:807:320:309::41c8:16ba profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
 #2600:1406:3:18b::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
 #2600:1406:3:18b::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
-2620:10e:6000:4::c71a:fed9 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
-2001:428:4c02:6::419e:72d8 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
-2a03:2880:f00d:115:face:b00c::3 scontent-a.xx.fbcdn.net
-2a03:2880:f00d:115:face:b00c::3 scontent-b.xx.fbcdn.net
+2600:1417:9::6007:3632 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3683 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
+2a03:2880:f002:110:face:b00c::3 scontent-a.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 scontent-b.xx.fbcdn.net
 2a03:2880:f00c:19:face:b00c::3 scontent-a-sin.xx.fbcdn.net
 2a03:2880:f00c:19:face:b00c::3 scontent-b-sin.xx.fbcdn.net
 2a03:2880:f00d:8:face:b00c::1 scontent-a-lax.xx.fbcdn.net
 2a03:2880:f00d:115:face:b00c::3 scontent-b-lax.xx.fbcdn.net
 #2a03:2880:f00d:8:face:b00c::1 ent-a.xx.fbcdn.net
 #2a03:2880:f00d:8:face:b00c::1 ent-b.xx.fbcdn.net
-2a03:2880:f00d:115:face:b00c::3 scontent.xx.fbcdn.net
-2a03:2880:f00d:115:face:b00c::3 external.xx.fbcdn.net
-2a03:2880:f00d:115:face:b00c::3 static.xx.fbcdn.net
-2a03:2880:f00d:111:face:b00c::1823 video.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 scontent.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 external.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 static.xx.fbcdn.net
+2a03:2880:f002:112:face:b00c::1823 video.xx.fbcdn.net
 
-2600:1406:3::b81c:bcaa fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bc98 fbcdn-photos-a-a.akamaihd.net #fbcdn-photos-a-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bcb0 fbcdn-photos-b-a.akamaihd.net #fbcdn-photos-b-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bca2 fbcdn-photos-c-a.akamaihd.net #fbcdn-photos-c-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bca0 fbcdn-photos-d-a.akamaihd.net #fbcdn-photos-d-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bca2 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bc92 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bc98 fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
-2600:1406:3::b81c:bc9a fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
-2610:18:f00:6::d174:972b fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
-2001:428:4c03::3fee:2a1 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
-2001:428:4c03::3fee:2c1 fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
-2001:428:4c03::3fee:2b8 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
-2001:428:4c03::3fee:2a1 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
-2001:428:4c03::3fee:2a1 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
-2001:428:4c03::3fee:28b fbcdn-sphotos-e-a.akamaihd.net #fbcdn-sphotos-e-a.akamaihd.net.edgesuite.net
-2001:428:4c03::3fee:2a9 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
-2600:1406:3f::17d7:641b fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
-2600:1406:3f::17d7:6452 fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72bb fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72c0 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72c0 fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72c9 fbcdn-video-d-a.akamaihd.net #fbcdn-video-d-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72d3 fbcdn-video-e-a.akamaihd.net #fbcdn-video-e-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72d8 fbcdn-video-f-a.akamaihd.net #fbcdn-video-f-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72c9 fbcdn-video-g-a.akamaihd.net #fbcdn-video-g-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72ca fbcdn-video-h-a.akamaihd.net #fbcdn-video-h-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72c9 fbcdn-video-i-a.akamaihd.net #fbcdn-video-i-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72d8 fbcdn-video-j-a.akamaihd.net #fbcdn-video-j-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72c9 fbcdn-video-k-a.akamaihd.net #fbcdn-video-k-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72d9 fbcdn-video-l-a.akamaihd.net #fbcdn-video-l-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72cb fbcdn-video-m-a.akamaihd.net #fbcdn-video-m-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f6f fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f74 fbcdn-photos-a-a.akamaihd.net #fbcdn-photos-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f66 fbcdn-photos-b-a.akamaihd.net #fbcdn-photos-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f5c fbcdn-photos-c-a.akamaihd.net #fbcdn-photos-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f6d fbcdn-photos-d-a.akamaihd.net #fbcdn-photos-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f77 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f56 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f4f fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f4c fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
+2600:807:320:309::41c8:16bb fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2001:418:8404:1::c657:3678 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
+2001:418:8404:1::c657:367a fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
+2001:418:8404:1::c657:367a fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
+2001:418:1401:19::a5fe:2f68 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
+2001:418:1401:19::a5fe:2f8a fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
+2001:418:1401:19::a5fe:2f78 fbcdn-sphotos-e-a.akamaihd.net #fbcdn-sphotos-e-a.akamaihd.net.edgesuite.net
+2001:418:1401:19::a5fe:2f68 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
+2001:418:8404:1::c657:367a fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
+2001:418:8404:1::c657:3673 fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3650 fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3661 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3663 fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3683 fbcdn-video-d-a.akamaihd.net #fbcdn-video-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3623 fbcdn-video-e-a.akamaihd.net #fbcdn-video-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:361b fbcdn-video-f-a.akamaihd.net #fbcdn-video-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3671 fbcdn-video-g-a.akamaihd.net #fbcdn-video-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3683 fbcdn-video-h-a.akamaihd.net #fbcdn-video-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3678 fbcdn-video-i-a.akamaihd.net #fbcdn-video-i-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3622 fbcdn-video-j-a.akamaihd.net #fbcdn-video-j-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:362a fbcdn-video-k-a.akamaihd.net #fbcdn-video-k-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3620 fbcdn-video-l-a.akamaihd.net #fbcdn-video-l-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:366a fbcdn-video-m-a.akamaihd.net #fbcdn-video-m-a.akamaihd.net.edgesuite.net
 2600:1417:9::6007:3630 fbcdn-video-n-a.akamaihd.net #fbcdn-video-n-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72da fbcdn-video-o-a.akamaihd.net #fbcdn-video-o-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72db fbcdn-video-p-a.akamaihd.net #fbcdn-video-p-a.akamaihd.net.edgesuite.net
-2001:428:4c02:6::419e:72d8 fbcdn-vthumb-a.akamaihd.net #fbcdn-vthumb-a.akamaihd.net.edgesuite.net
-2620:10e:6000:4::c71a:fed9 fbstatic-a.akamaihd.net #fbstatic-a.akamaihd.net.edgesuite.net
-2620:10e:6000:4::c71a:fed8 fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
-2620:10e:6000:4::c71a:fed8 fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3651 fbcdn-video-o-a.akamaihd.net #fbcdn-video-o-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3638 fbcdn-video-p-a.akamaihd.net #fbcdn-video-p-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3650 fbcdn-vthumb-a.akamaihd.net #fbcdn-vthumb-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:367b fbstatic-a.akamaihd.net #fbstatic-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3638 fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:366b fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
 
 #2600:1417:9::b833:f90 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
 #2600:1417:9::b833:f90 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
@@ -19348,7 +19348,7 @@
 #2a03:2880:f20d:c4:face:b00c:0:43fe instagram.com
 #2a03:2880:f20d:c4:face:b00c:0:43fe www.instagram.com
 #2a03:2880:f20d:c4:face:b00c:0:43fe i.instagram.com
-#2a03:2880:f20d:c4:face:b00c:0:43fe api.instagram.com
+2a03:2880:f202:c2:face:b00c::43fe api.instagram.com
 #2a03:2880:f20d:c4:face:b00c:0:43fe help.instagram.com
 #2a03:2880:f20d:c4:face:b00c:0:43fe blog.instagram.com
 #2a03:2880:f20d:c4:face:b00c:0:43fe graph.instagram.com
@@ -19356,185 +19356,185 @@
 #2a03:2880:f20d:c4:face:b00c:0:43fe badges.instagram.com
 #2a03:2880:f20d:c4:face:b00c:0:43fe platform.instagram.com
 #2a03:2880:f20d:c4:face:b00c:0:43fe maps.instagram.com
-2a03:2880:f201:c4:face:b00c::43fe scontent.cdninstagram.com
-2a03:2880:f201:c4:face:b00c::43fe scontent-a.cdninstagram.com
-2a03:2880:f20d:1c4:face:b00c::43fe scontent-b.cdninstagram.com
+2a03:2880:f202:c2:face:b00c::43fe scontent.cdninstagram.com
+2a03:2880:f202:c2:face:b00c::43fe scontent-a.cdninstagram.com
+2a03:2880:f202:c2:face:b00c::43fe scontent-b.cdninstagram.com
 2a03:2880:f222:c4:face:b00c::43fe scontent-a-sjc.cdninstagram.com
 2a03:2880:f222:c4:face:b00c::43fe scontent-b-sjc.cdninstagram.com
 2a03:2880:f20b:c4:face:b00c::43fe scontent-a-ord.cdninstagram.com
 2a03:2880:f20b:c4:face:b00c::43fe scontent-b-ord.cdninstagram.com
 2a03:2880:f20d:1c4:face:b00c::43fe scontent-a-lax.cdninstagram.com
-2a03:2880:f20d:c4:face:b00c::43fe scontent-b-lax.cdninstagram.com
-2001:428:4c03::3fee:290 igcdn-photos-a-a.akamaihd.net
-2001:428:4c03::3fee:2b8 igcdn-photos-b-a.akamaihd.net
-2001:428:4c03::3fee:29b igcdn-photos-c-a.akamaihd.net
-2001:428:4c03::3fee:2a1 igcdn-photos-d-a.akamaihd.net
-2001:428:4c03::3fee:2c3 igcdn-photos-e-a.akamaihd.net
-2001:428:4c03::3fee:2b0 igcdn-photos-f-a.akamaihd.net
-2600:1406:3f::17d7:6418 igcdn-photos-g-a.akamaihd.net
-2600:1406:3f::17d7:6452 igcdn-photos-h-a.akamaihd.net
-2001:428:7000:2::3f92:4562 igcdn-videos-a-0-a.akamaihd.net
-2001:428:7000:2::3f92:4551 igcdn-videos-a-1-a.akamaihd.net
-2001:428:7000:2::3f92:4559 igcdn-videos-a-2-a.akamaihd.net
-2001:428:7000:2::3f92:4559 igcdn-videos-a-3-a.akamaihd.net
-2001:428:7000:2::3f92:4569 igcdn-videos-a-4-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-a-5-a.akamaihd.net
-2001:428:7000:2::3f92:4561 igcdn-videos-a-6-a.akamaihd.net
+2a03:2880:f20d:1c4:face:b00c::43fe scontent-b-lax.cdninstagram.com
+2001:418:8404:1::c657:3678 igcdn-photos-a-a.akamaihd.net
+2001:418:8404:1::c657:3669 igcdn-photos-b-a.akamaihd.net
+2001:418:1401:19::a5fe:2f89 igcdn-photos-c-a.akamaihd.net
+2001:418:1401:19::a5fe:2f8a igcdn-photos-d-a.akamaihd.net
+2001:418:1401:19::a5fe:2f80 igcdn-photos-e-a.akamaihd.net
+2001:418:1401:19::a5fe:2f68 igcdn-photos-f-a.akamaihd.net
+2001:418:8404:1::c657:3682 igcdn-photos-g-a.akamaihd.net
+2001:418:8404:1::c657:3689 igcdn-photos-h-a.akamaihd.net
+2600:1417:9::6007:3620 igcdn-videos-a-0-a.akamaihd.net
+2600:1417:9::6007:367a igcdn-videos-a-1-a.akamaihd.net
+2600:1417:9::6007:3632 igcdn-videos-a-2-a.akamaihd.net
+2600:1417:9::6007:3669 igcdn-videos-a-3-a.akamaihd.net
+2600:1417:9::6007:362b igcdn-videos-a-4-a.akamaihd.net
+2600:1417:9::6007:3613 igcdn-videos-a-5-a.akamaihd.net
+2600:1417:9::6007:3671 igcdn-videos-a-6-a.akamaihd.net
 2600:1417:9::6007:3640 igcdn-videos-a-7-a.akamaihd.net
-2001:428:7000:2::3f92:456a igcdn-videos-a-8-a.akamaihd.net
-2001:428:7000:2::3f92:454b igcdn-videos-a-9-a.akamaihd.net
-2001:428:7000:2::3f92:454b igcdn-videos-a-10-a.akamaihd.net
+2600:1417:9::6007:3633 igcdn-videos-a-8-a.akamaihd.net
+2600:1417:9::6007:3673 igcdn-videos-a-9-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-a-10-a.akamaihd.net
 2001:428:7000:2::3f92:455a igcdn-videos-a-11-a.akamaihd.net
 2001:428:7000:2::3f92:454b igcdn-videos-a-12-a.akamaihd.net
 2001:428:7000:2::3f92:455b igcdn-videos-a-13-a.akamaihd.net
 2001:428:7000:2::3f92:4553 igcdn-videos-a-14-a.akamaihd.net
-2001:418:8404:1::c657:367b igcdn-videos-a-15-a.akamaihd.net
-2001:418:8404:1::c657:368a igcdn-videos-a-16-a.akamaihd.net
-2001:418:8404:1::c657:368a igcdn-videos-a-17-a.akamaihd.net
-2001:418:8404:1::c657:368a igcdn-videos-a-18-a.akamaihd.net
-2001:418:8404:1::c657:3672 igcdn-videos-a-19-a.akamaihd.net
-2001:428:7000:2::3f92:4569 igcdn-videos-b-0-a.akamaihd.net
-2001:428:7000:2::3f92:4569 igcdn-videos-b-1-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-b-2-a.akamaihd.net
-2001:428:7000:2::3f92:456a igcdn-videos-b-3-a.akamaihd.net
-2001:428:7000:2::3f92:4561 igcdn-videos-b-4-a.akamaihd.net
-2001:428:7000:2::3f92:4561 igcdn-videos-b-5-a.akamaihd.net
-2001:428:7000:2::3f92:4561 igcdn-videos-b-6-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-b-7-a.akamaihd.net
-2001:428:7000:2::3f92:4558 igcdn-videos-b-8-a.akamaihd.net
-2001:428:7000:2::3f92:4550 igcdn-videos-b-9-a.akamaihd.net
+2001:668:108:1007::4d43:5510 igcdn-videos-a-15-a.akamaihd.net
+2001:668:108:1007::4d43:5508 igcdn-videos-a-16-a.akamaihd.net
+2001:668:108:1007::4d43:5523 igcdn-videos-a-17-a.akamaihd.net
+2001:668:108:1007::4d43:5530 igcdn-videos-a-18-a.akamaihd.net
+2001:668:108:1007::4d43:5519 igcdn-videos-a-19-a.akamaihd.net
+2600:1417:9::6007:366a igcdn-videos-b-0-a.akamaihd.net
+2600:1417:9::6007:3683 igcdn-videos-b-1-a.akamaihd.net
+2600:1417:9::6007:3652 igcdn-videos-b-2-a.akamaihd.net
+2600:1417:9::6007:3632 igcdn-videos-b-3-a.akamaihd.net
+2600:1417:9::6007:3673 igcdn-videos-b-4-a.akamaihd.net
+2600:1417:9::6007:363a igcdn-videos-b-5-a.akamaihd.net
+2600:1417:9::6007:3682 igcdn-videos-b-6-a.akamaihd.net
+2600:1417:9::6007:3649 igcdn-videos-b-7-a.akamaihd.net
+2600:1417:9::6007:362a igcdn-videos-b-8-a.akamaihd.net
+2600:1417:9::6007:3620 igcdn-videos-b-9-a.akamaihd.net
 2001:428:7000:2::3f92:4562 igcdn-videos-b-10-a.akamaihd.net
-2001:428:7000:2::3f92:455b igcdn-videos-b-11-a.akamaihd.net
-2001:428:7000:2::3f92:455b igcdn-videos-b-12-a.akamaihd.net
+2001:428:7000:2::3f92:456a igcdn-videos-b-11-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-b-12-a.akamaihd.net
 2001:428:7000:2::3f92:4569 igcdn-videos-b-13-a.akamaihd.net
-2001:428:7000:2::3f92:4558 igcdn-videos-b-14-a.akamaihd.net
-2001:418:8404:1::c657:3688 igcdn-videos-b-15-a.akamaihd.net
-2001:418:8404:1::c657:3668 igcdn-videos-b-16-a.akamaihd.net
-2001:418:8404:1::c657:3680 igcdn-videos-b-17-a.akamaihd.net
-2001:418:8404:1::c657:367a igcdn-videos-b-18-a.akamaihd.net
-2001:418:8404:1::c657:366b igcdn-videos-b-19-a.akamaihd.net
-2001:428:7000:2::3f92:4569 igcdn-videos-c-0-a.akamaihd.net
-2001:428:7000:2::3f92:4551 igcdn-videos-c-1-a.akamaihd.net
-2001:428:7000:2::3f92:454b igcdn-videos-c-2-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-c-3-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-c-4-a.akamaihd.net
-2001:428:7000:2::3f92:456a igcdn-videos-c-5-a.akamaihd.net
-2001:428:7000:2::3f92:4551 igcdn-videos-c-6-a.akamaihd.net
-2001:428:7000:2::3f92:4561 igcdn-videos-c-7-a.akamaihd.net
-2001:428:7000:2::3f92:455a igcdn-videos-c-8-a.akamaihd.net
-2001:428:7000:2::3f92:4551 igcdn-videos-c-9-a.akamaihd.net
+2001:428:7000:2::3f92:4561 igcdn-videos-b-14-a.akamaihd.net
+2001:668:108:1007::4d43:5523 igcdn-videos-b-15-a.akamaihd.net
+2001:668:108:1007::4d43:552b igcdn-videos-b-16-a.akamaihd.net
+2001:668:108:1007::4d43:550b igcdn-videos-b-17-a.akamaihd.net
+2001:668:108:1007::4d43:550a igcdn-videos-b-18-a.akamaihd.net
+2001:668:108:1007::4d43:5521 igcdn-videos-b-19-a.akamaihd.net
+2600:1417:9::6007:365a igcdn-videos-c-0-a.akamaihd.net
+2600:1417:9::6007:3681 igcdn-videos-c-1-a.akamaihd.net
+2600:1417:9::6007:365a igcdn-videos-c-2-a.akamaihd.net
+2600:1417:9::6007:3611 igcdn-videos-c-3-a.akamaihd.net
+2600:1417:9::6007:3683 igcdn-videos-c-4-a.akamaihd.net
+2600:1417:9::6007:3613 igcdn-videos-c-5-a.akamaihd.net
+2600:1417:9::6007:3679 igcdn-videos-c-6-a.akamaihd.net
+2600:1417:9::6007:364a igcdn-videos-c-7-a.akamaihd.net
+2600:1417:9::6007:3632 igcdn-videos-c-8-a.akamaihd.net
+2600:1417:9::6007:3631 igcdn-videos-c-9-a.akamaihd.net
 2001:428:7000:2::3f92:4560 igcdn-videos-c-10-a.akamaihd.net
 2001:428:7000:2::3f92:4558 igcdn-videos-c-11-a.akamaihd.net
 2001:428:7000:2::3f92:4551 igcdn-videos-c-12-a.akamaihd.net
 2001:428:7000:2::3f92:4562 igcdn-videos-c-13-a.akamaihd.net
 2001:428:7000:2::3f92:454b igcdn-videos-c-14-a.akamaihd.net
-2001:418:8404:1::c657:3663 igcdn-videos-c-15-a.akamaihd.net
-2001:418:8404:1::c657:368b igcdn-videos-c-16-a.akamaihd.net
-2001:418:8404:1::c657:3682 igcdn-videos-c-17-a.akamaihd.net
-2001:418:8404:1::c657:3690 igcdn-videos-c-18-a.akamaihd.net
-2001:418:8404:1::c657:3689 igcdn-videos-c-19-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-d-0-a.akamaihd.net
-2001:428:7000:2::3f92:4558 igcdn-videos-d-1-a.akamaihd.net
-2001:428:7000:2::3f92:456a igcdn-videos-d-2-a.akamaihd.net
-2001:428:7000:2::3f92:4560 igcdn-videos-d-3-a.akamaihd.net
-2001:428:7000:2::3f92:455b igcdn-videos-d-4-a.akamaihd.net
-2001:428:7000:2::3f92:4559 igcdn-videos-d-5-a.akamaihd.net
-2001:428:7000:2::3f92:4550 igcdn-videos-d-6-a.akamaihd.net
+2001:668:108:1007::4d43:5532 igcdn-videos-c-15-a.akamaihd.net
+2001:668:108:1007::4d43:550a igcdn-videos-c-16-a.akamaihd.net
+2001:668:108:1007::4d43:5522 igcdn-videos-c-17-a.akamaihd.net
+2001:668:108:1007::4d43:552a igcdn-videos-c-18-a.akamaihd.net
+2001:668:108:1007::4d43:550a igcdn-videos-c-19-a.akamaihd.net
+2600:1417:9::6007:3669 igcdn-videos-d-0-a.akamaihd.net
+2600:1417:9::6007:3649 igcdn-videos-d-1-a.akamaihd.net
+2600:1417:9::6007:3630 igcdn-videos-d-2-a.akamaihd.net
+2600:1417:9::6007:3629 igcdn-videos-d-3-a.akamaihd.net
+2600:1417:9::6007:365a igcdn-videos-d-4-a.akamaihd.net
+2600:1417:9::6007:3628 igcdn-videos-d-5-a.akamaihd.net
+2600:1417:9::6007:365a igcdn-videos-d-6-a.akamaihd.net
 2600:1417:9::6007:3652 igcdn-videos-d-7-a.akamaihd.net
-2001:428:7000:2::3f92:455b igcdn-videos-d-8-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-d-9-a.akamaihd.net
+2600:1417:9::6007:3621 igcdn-videos-d-8-a.akamaihd.net
+2600:1417:9::6007:367a igcdn-videos-d-9-a.akamaihd.net
 2001:428:7000:2::3f92:4568 igcdn-videos-d-10-a.akamaihd.net
 2001:428:7000:2::3f92:4562 igcdn-videos-d-11-a.akamaihd.net
 2001:428:7000:2::3f92:4552 igcdn-videos-d-12-a.akamaihd.net
 2001:428:7000:2::3f92:4558 igcdn-videos-d-13-a.akamaihd.net
 2001:428:7000:2::3f92:4550 igcdn-videos-d-14-a.akamaihd.net
-2001:418:8404:1::c657:3672 igcdn-videos-d-15-a.akamaihd.net
-2001:418:8404:1::c657:366a igcdn-videos-d-16-a.akamaihd.net
-2001:418:8404:1::c657:3662 igcdn-videos-d-17-a.akamaihd.net
-2001:418:8404:1::c657:368b igcdn-videos-d-18-a.akamaihd.net
-2001:418:8404:1::c657:366a igcdn-videos-d-19-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-e-0-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-e-1-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-e-2-a.akamaihd.net
-2001:428:7000:2::3f92:455a igcdn-videos-e-3-a.akamaihd.net
-2001:428:7000:2::3f92:455b igcdn-videos-e-4-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-e-5-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-e-6-a.akamaihd.net
-2001:428:7000:2::3f92:4569 igcdn-videos-e-7-a.akamaihd.net
-2001:428:7000:2::3f92:4562 igcdn-videos-e-8-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-e-9-a.akamaihd.net
+2001:668:108:1007::4d43:5521 igcdn-videos-d-15-a.akamaihd.net
+2001:668:108:1007::4d43:5532 igcdn-videos-d-16-a.akamaihd.net
+2001:668:108:1007::4d43:5518 igcdn-videos-d-17-a.akamaihd.net
+2001:668:108:1007::4d43:5509 igcdn-videos-d-18-a.akamaihd.net
+2001:668:108:1007::4d43:5519 igcdn-videos-d-19-a.akamaihd.net
+2600:1417:9::6007:3623 igcdn-videos-e-0-a.akamaihd.net
+2600:1417:9::6007:3671 igcdn-videos-e-1-a.akamaihd.net
+2600:1417:9::6007:3612 igcdn-videos-e-2-a.akamaihd.net
+2600:1417:9::6007:3651 igcdn-videos-e-3-a.akamaihd.net
+2600:1417:9::6007:360b igcdn-videos-e-4-a.akamaihd.net
+2600:1417:9::6007:3638 igcdn-videos-e-5-a.akamaihd.net
+2600:1417:9::6007:3681 igcdn-videos-e-6-a.akamaihd.net
+2600:1417:9::6007:360b igcdn-videos-e-7-a.akamaihd.net
+2600:1417:9::6007:3642 igcdn-videos-e-8-a.akamaihd.net
+2600:1417:9::6007:3629 igcdn-videos-e-9-a.akamaihd.net
 2001:428:7000:2::3f92:454b igcdn-videos-e-10-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-e-11-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-e-12-a.akamaihd.net
-2001:428:7000:2::3f92:454b igcdn-videos-e-13-a.akamaihd.net
-2001:428:7000:2::3f92:4560 igcdn-videos-e-14-a.akamaihd.net
-2001:418:8404:1::c657:3689 igcdn-videos-e-15-a.akamaihd.net
-2001:418:8404:1::c657:3661 igcdn-videos-e-16-a.akamaihd.net
-2001:418:8404:1::c657:366b igcdn-videos-e-17-a.akamaihd.net
-2001:418:8404:1::c657:367a igcdn-videos-e-18-a.akamaihd.net
-2001:418:8404:1::c657:368a igcdn-videos-e-19-a.akamaihd.net
-2001:428:7000:2::3f92:4560 igcdn-videos-f-0-a.akamaihd.net
-2001:428:7000:2::3f92:4559 igcdn-videos-f-1-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-f-2-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-f-3-a.akamaihd.net
-2001:428:7000:2::3f92:4550 igcdn-videos-f-4-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-f-5-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-f-6-a.akamaihd.net
-2001:428:7000:2::3f92:4550 igcdn-videos-f-7-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-f-8-a.akamaihd.net
-2001:428:7000:2::3f92:4558 igcdn-videos-f-9-a.akamaihd.net
-2001:428:7000:2::3f92:4560 igcdn-videos-f-10-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-e-11-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-e-12-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-e-13-a.akamaihd.net
+2001:428:7000:2::3f92:4561 igcdn-videos-e-14-a.akamaihd.net
+2001:668:108:1007::4d43:5512 igcdn-videos-e-15-a.akamaihd.net
+2001:668:108:1007::4d43:5529 igcdn-videos-e-16-a.akamaihd.net
+2001:668:108:1007::4d43:5523 igcdn-videos-e-17-a.akamaihd.net
+2001:668:108:1007::4d43:5520 igcdn-videos-e-18-a.akamaihd.net
+2001:668:108:1007::4d43:5510 igcdn-videos-e-19-a.akamaihd.net
+2600:1417:9::6007:3682 igcdn-videos-f-0-a.akamaihd.net
+2600:1417:9::6007:3683 igcdn-videos-f-1-a.akamaihd.net
+2600:1417:9::6007:3669 igcdn-videos-f-2-a.akamaihd.net
+2600:1417:9::6007:361b igcdn-videos-f-3-a.akamaihd.net
+2600:1417:9::6007:3628 igcdn-videos-f-4-a.akamaihd.net
+2600:1417:9::6007:362a igcdn-videos-f-5-a.akamaihd.net
+2600:1417:9::6007:362a igcdn-videos-f-6-a.akamaihd.net
+2600:1417:9::6007:3628 igcdn-videos-f-7-a.akamaihd.net
+2600:1417:9::6007:3632 igcdn-videos-f-8-a.akamaihd.net
+2600:1417:9::6007:3672 igcdn-videos-f-9-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-f-10-a.akamaihd.net
 2001:428:7000:2::3f92:4552 igcdn-videos-f-11-a.akamaihd.net
 2001:428:7000:2::3f92:4558 igcdn-videos-f-12-a.akamaihd.net
-2001:428:7000:2::3f92:455b igcdn-videos-f-13-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-f-14-a.akamaihd.net
-2001:418:8404:1::c657:3682 igcdn-videos-f-15-a.akamaihd.net
-2001:418:8404:1::c657:3679 igcdn-videos-f-16-a.akamaihd.net
-2001:418:8404:1::c657:3673 igcdn-videos-f-17-a.akamaihd.net
-2001:418:8404:1::c657:366a igcdn-videos-f-18-a.akamaihd.net
-2001:418:8404:1::c657:3679 igcdn-videos-f-19-a.akamaihd.net
-2001:428:7000:2::3f92:455a igcdn-videos-g-0-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-g-1-a.akamaihd.net
-2001:428:7000:2::3f92:455a igcdn-videos-g-2-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-g-3-a.akamaihd.net
-2001:428:7000:2::3f92:455a igcdn-videos-g-4-a.akamaihd.net
-2001:428:7000:2::3f92:4562 igcdn-videos-g-5-a.akamaihd.net
-2001:428:7000:2::3f92:454b igcdn-videos-g-6-a.akamaihd.net
-2600:1417:9::6007:3611 igcdn-videos-g-7-a.akamaihd.net
-2001:428:7000:2::3f92:4553 igcdn-videos-g-8-a.akamaihd.net
-2001:428:7000:2::3f92:4568 igcdn-videos-g-9-a.akamaihd.net
-2001:428:7000:2::3f92:4569 igcdn-videos-g-10-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-f-13-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-f-14-a.akamaihd.net
+2001:668:108:1007::4d43:5512 igcdn-videos-f-15-a.akamaihd.net
+2001:668:108:1007::4d43:5530 igcdn-videos-f-16-a.akamaihd.net
+2001:668:108:1007::4d43:5530 igcdn-videos-f-17-a.akamaihd.net
+2001:668:108:1007::4d43:5532 igcdn-videos-f-18-a.akamaihd.net
+2001:668:108:1007::4d43:5511 igcdn-videos-f-19-a.akamaihd.net
+2600:1417:9::6007:3681 igcdn-videos-g-0-a.akamaihd.net
+2600:1417:9::6007:3659 igcdn-videos-g-1-a.akamaihd.net
+2600:1417:9::6007:362a igcdn-videos-g-2-a.akamaihd.net
+2600:1417:9::6007:360b igcdn-videos-g-3-a.akamaihd.net
+2600:1417:9::6007:3639 igcdn-videos-g-4-a.akamaihd.net
+2600:1417:9::6007:3623 igcdn-videos-g-5-a.akamaihd.net
+2600:1417:9::6007:3612 igcdn-videos-g-6-a.akamaihd.net
+2600:1417:9::6007:366a igcdn-videos-g-7-a.akamaihd.net
+2600:1417:9::6007:3623 igcdn-videos-g-8-a.akamaihd.net
+2600:1417:9::6007:3620 igcdn-videos-g-9-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-g-10-a.akamaihd.net
 2001:428:7000:2::3f92:4568 igcdn-videos-g-11-a.akamaihd.net
 2001:428:7000:2::3f92:4568 igcdn-videos-g-12-a.akamaihd.net
 2001:428:7000:2::3f92:455a igcdn-videos-g-13-a.akamaihd.net
-2001:428:7000:2::3f92:4559 igcdn-videos-g-14-a.akamaihd.net
-2001:418:8404:1::c657:3672 igcdn-videos-g-15-a.akamaihd.net
-2001:418:8404:1::c657:3663 igcdn-videos-g-16-a.akamaihd.net
-2001:418:8404:1::c657:3670 igcdn-videos-g-17-a.akamaihd.net
-2001:418:8404:1::c657:3672 igcdn-videos-g-18-a.akamaihd.net
-2001:418:8404:1::c657:3689 igcdn-videos-g-19-a.akamaihd.net
-2001:428:7000:2::3f92:4560 igcdn-videos-h-0-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-h-1-a.akamaihd.net
-2001:428:7000:2::3f92:4569 igcdn-videos-h-2-a.akamaihd.net
-2001:428:7000:2::3f92:4550 igcdn-videos-h-3-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-h-4-a.akamaihd.net
-2001:428:7000:2::3f92:4558 igcdn-videos-h-5-a.akamaihd.net
-2001:428:7000:2::3f92:455a igcdn-videos-h-6-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-h-7-a.akamaihd.net
-2001:428:7000:2::3f92:4562 igcdn-videos-h-8-a.akamaihd.net
-2001:428:7000:2::3f92:4550 igcdn-videos-h-9-a.akamaihd.net
-2001:428:7000:2::3f92:4552 igcdn-videos-h-10-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-g-14-a.akamaihd.net
+2001:668:108:1007::4d43:5512 igcdn-videos-g-15-a.akamaihd.net
+2001:668:108:1007::4d43:5529 igcdn-videos-g-16-a.akamaihd.net
+2001:668:108:1007::4d43:5508 igcdn-videos-g-17-a.akamaihd.net
+2001:668:108:1007::4d43:5520 igcdn-videos-g-18-a.akamaihd.net
+2001:668:108:1007::4d43:5512 igcdn-videos-g-19-a.akamaihd.net
+2600:1417:9::6007:3658 igcdn-videos-h-0-a.akamaihd.net
+2600:1417:9::6007:3632 igcdn-videos-h-1-a.akamaihd.net
+2600:1417:9::6007:3622 igcdn-videos-h-2-a.akamaihd.net
+2600:1417:9::6007:3642 igcdn-videos-h-3-a.akamaihd.net
+2600:1417:9::6007:3650 igcdn-videos-h-4-a.akamaihd.net
+2600:1417:9::6007:3628 igcdn-videos-h-5-a.akamaihd.net
+2600:1417:9::6007:3640 igcdn-videos-h-6-a.akamaihd.net
+2600:1417:9::6007:3623 igcdn-videos-h-7-a.akamaihd.net
+2600:1417:9::6007:365b igcdn-videos-h-8-a.akamaihd.net
+2600:1417:9::6007:3613 igcdn-videos-h-9-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-h-10-a.akamaihd.net
 2001:428:7000:2::3f92:4558 igcdn-videos-h-11-a.akamaihd.net
-2001:428:7000:2::3f92:456a igcdn-videos-h-12-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-h-12-a.akamaihd.net
 2001:428:7000:2::3f92:4552 igcdn-videos-h-13-a.akamaihd.net
-2001:428:7000:2::3f92:4558 igcdn-videos-h-14-a.akamaihd.net
-2001:418:8404:1::c657:3690 igcdn-videos-h-15-a.akamaihd.net
-2001:418:8404:1::c657:3668 igcdn-videos-h-16-a.akamaihd.net
-2001:418:8404:1::c657:3673 igcdn-videos-h-17-a.akamaihd.net
-2001:418:8404:1::c657:3673 igcdn-videos-h-18-a.akamaihd.net
-2001:418:8404:1::c657:3680 igcdn-videos-h-19-a.akamaihd.net
-2600:1406:3f::17d7:6463 instagramimages-a.akamaihd.net
-2620:10e:6000:4::c71a:fedb instagramstatic-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-h-14-a.akamaihd.net
+2001:668:108:1007::4d43:5533 igcdn-videos-h-15-a.akamaihd.net
+2001:668:108:1007::4d43:5531 igcdn-videos-h-16-a.akamaihd.net
+2001:668:108:1007::4d43:5528 igcdn-videos-h-17-a.akamaihd.net
+2001:668:108:1007::4d43:5522 igcdn-videos-h-18-a.akamaihd.net
+2001:668:108:1007::4d43:552a igcdn-videos-h-19-a.akamaihd.net
+2001:418:8404:1::c657:367a instagramimages-a.akamaihd.net
+2600:1417:9::6007:3651 instagramstatic-a.akamaihd.net
 #2001:590:1:501::42ab:e018 photos-a.ak.instagram.com #photos-a.ak.instagram.com.edgesuite.net
 #2001:590:1:501::42ab:e010 photos-b.ak.instagram.com #photos-b.ak.instagram.com.edgesuite.net
 #2600:1404:2::1702:11bb photos-c.ak.instagram.com #photos-c.ak.instagram.com.edgesuite.net
@@ -20403,7 +20403,7 @@
 2620:0:863:ed1a::1 sv.wikiversity.org
 
 ## Apple 苹果
-2001:4de0:4008:18b::1aca www.apple.com #www.isg-apple.com.akadns.net
+2001:428:4c08:19b::1aca www.apple.com #www.isg-apple.com.akadns.net
 
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
@@ -20444,19 +20444,19 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2001:4de0:4008:191::747 www.microsoft.com #e10088.dscb.akamaiedge.net
-2600:1406:28:29b::29df i.microsoft.com
-2600:1406:28:29b::29df i2.microsoft.com #i.microsoft.com.edgekey.net
-2600:1406:28:29b::29df i3.microsoft.com #i.microsoft.com.edgekey.net
-2620:10e:6000:4::c71a:fed8 i4.microsoft.com #i.toggle.www.ms.akadns.net
+2001:428:4c08:186::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2600:1417:9:295::29df i.microsoft.com
+2600:1417:9:293::29df i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:9:293::29df i3.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:9::6007:3618 i4.microsoft.com #i.toggle.www.ms.akadns.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
-2600:1406:28:28c::e59 download.microsoft.com
+2600:1417:9:2a0::e59 download.microsoft.com
 #204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
 #134.170.120.48 skyapi.onedrive.live.com
 #204.79.197.217 skyweb.skyprod.akadns.net
 #204.79.197.217 webedgegeo.skyprod.akadns.net
-2600:1406:28:296::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-2600:1406:28:296::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1417:9:297::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2600:1417:9:297::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 #2a01:111:2003::200 www.bing.com
 #2a01:111:2003::200 cn.bing.com
 #2a01:111:2003::200 ssl.bing.com
@@ -20478,34 +20478,34 @@
 2001:500:13::46 whois.arin.net
 
 ## Yahoo!
-2001:4998:c:a06::2:4008 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
-2001:4998:44:1801::3000 news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2406:2000:ec:601::1009 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
+2406:2000:e4:200::3005 news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 #2406:2000:f016:1fe::3001 hk.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-2001:4998:28:800::4000 dstest.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2001:4998:28:800::4000 dstest2.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2001:4998:28:800::4000 dstest3.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2406:2000:ec:a01::2002 dstest.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2406:2000:a0:800::1001 dstest2.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2406:2000:a8:805::1009 dstest3.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
 #2406:2000:f016:1fe::3000 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 #2406:2000:f016:1fe::3001 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-2001:4998:28:800::4001 l.yimg.com #l.gycs.b.yahoodns.net
-2001:4998:28:800::4001 l1.yimg.com #l.gycs.b.yahoodns.net
-2001:4998:28:800::4001 l2.yimg.com #any-l.aycs.b.yahoodns.net
-2001:4998:28:800::4001 l3.yimg.com #any-l.aycs.b.yahoodns.net
-2001:4998:44:6000::1000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
+2406:2000:ec:a01::2002 l.yimg.com #l.gycs.b.yahoodns.net
+2406:2000:ec:a01::4000 l1.yimg.com #l.gycs.b.yahoodns.net
+2406:2000:a0:800::1002 l2.yimg.com #any-l.aycs.b.yahoodns.net
+2406:2000:a0:800::1001 l3.yimg.com #any-l.aycs.b.yahoodns.net
+2406:2000:e4:2037::5000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
 
 ## Uncyclopedia
-2400:cb00:2048:1::681c:1a21 uncyclopedia.hk
-2400:cb00:2048:1::681c:1a09 uncyclopedia.info
-2400:cb00:2048:1::681c:1a09 www.uncyclopedia.info
+2400:cb00:2048:1::681c:1b21 uncyclopedia.hk
+2400:cb00:2048:1::681c:1b09 uncyclopedia.info
+2400:cb00:2048:1::681c:1b09 www.uncyclopedia.info
 2400:cb00:2048:1::681c:1204 uncyclopedia.tw
 2400:cb00:2048:1::681c:a56 uncyclomedia.org
-2400:cb00:2048:1::681c:a56 meta.uncyclomedia.org
-2400:cb00:2048:1::681c:193a images.uncyc.org
+2400:cb00:2048:1::681c:b56 meta.uncyclomedia.org
+2400:cb00:2048:1::681c:183a images.uncyc.org
 2400:cb00:2048:1::681c:193a static.uncyc.org
 2400:cb00:2048:1::681c:1109 ansaikuropedia.org
 
 ## Vine
-#2606:1f80:a000:100::4 edge.vncdn.co
-2606:2800:21f:20ba:47b:25fd:1603:2e7 mid.vncdn.co
+2606:2800:247:1714:108c:737:1cb0:5bf edge.vncdn.co
+#2606:2800:247:1714:108c:737:1cb0:5bf mid.vncdn.co
 #2606:1f80:a000:100::5 v.cdn.vine.co
 #2606:1f80:a000:100::5 mtc.cdn.vine.co
 
@@ -20568,7 +20568,7 @@
 
 ## AMD
 #2600:1406:3:18b::b51 www.amd.com
-2001:4de0:4008:190::2c4b community.amd.com
+2600:1417:9:28a::2c4b community.amd.com
 #2600:1417:9::b833:f5b ir.amd.com
 #2600:1417:9::b833:f5b shop.amd.com
 #2600:1406:3:18b::b51 support.amd.com
@@ -20593,12 +20593,12 @@
 
 ## AT 奥地利
 ## Tor Project
-2620::6b0:b:1a1a:0:26e5:4810 torproject.org
+2001:858:2:2:aabb::563b:1e28 torproject.org
 2620::6b0:b:1a1a:0:26e5:4810 www.torproject.org
-2620::6b0:b:1a1a:0:26e5:4810 deb.torproject.org #www.torproject.org
+2001:858:2:2:aabb::563b:1e28 deb.torproject.org #www.torproject.org
 2a01:4f8:172:39ca::dad3:3:1 trac.torproject.org #troodi.torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 cloud.torproject.org #www.torproject.org
-2001:41b8:202:deb:213:21ff:fe20:1426 atlas.torproject.org #www.torproject.org
+2001:858:2:2:aabb::563b:1e28 atlas.torproject.org #www.torproject.org
 2a01:4f8:172:1b46::abba:14:1 svn.torproject.org #gayi.torproject.org
 
 ## AU 澳大利亚
@@ -20660,24 +20660,24 @@
 
 ## Flickr
 #2406:2000:108:2::1000 flickr.com
-2001:4998:28:800::4000 www.flickr.com
-2001:4998:28:800::4000 up.flickr.com
-2001:4998:28:800::4001 api.flickr.com
+2406:2000:a0:800::1002 www.flickr.com
+2406:2000:a0:800::1002 up.flickr.com
+2001:4998:18:800::4003 api.flickr.com
 #2406:2000:108:2::1000 secure.flickr.com
-2001:4998:28:800::4001 m.flickr.com
+2406:2000:a0:800::1002 m.flickr.com
 #2406:2000:108:2::1000 heartbeat.flickr.com
 #192.0.79.32 code.flickr.com
-2001:4998:18:800::4006 c.staticflickr.com
+2406:2000:fc:402::c:2207 c.staticflickr.com
 2001:4998:18:800::4006 c1.staticflickr.com
-2001:4998:18:800::4006 c2.staticflickr.com
-2001:4998:18:800::4006 c3.staticflickr.com
-2001:4998:18:800::4006 c4.staticflickr.com
+2406:2000:fc:402::c:2207 c2.staticflickr.com
+2406:2000:fc:402::c:2207 c3.staticflickr.com
+2406:2000:fc:402::c:2207 c4.staticflickr.com
 2001:4998:18:800::4006 c5.staticflickr.com
 2001:4998:18:800::4006 c6.staticflickr.com
-2001:4998:18:800::4006 c7.staticflickr.com
+2406:2000:fc:402::c:2207 c7.staticflickr.com
 2001:4998:18:800::4006 c8.staticflickr.com
 #2406:2000:fc:402::c:2207 c9.staticflickr.com
-2001:4998:28:800::4000 s.yimg.com #s.gycs.b.yahoodns.net
+2406:2000:ec:a01::2002 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## Geeksforgeeks
 #54.239.130.34 d2dskowxfbo68o.cloudfront.net
@@ -20885,9 +20885,9 @@
 #2a04:4e42::325 askubuntu.com
 #2a04:4e42::325 serverfault.com
 #2a04:4e42::325 mathoverflow.net
-2400:cb00:2048:1::6818:1241 mathjax.org
+2400:cb00:2048:1::6818:1341 mathjax.org
 2400:cb00:2048:1::6818:1241 www.mathjax.org
-2400:cb00:2048:1::6818:1241 beta.mathjax.org
+2400:cb00:2048:1::6818:1341 beta.mathjax.org
 2400:cb00:2048:1::6818:1241 cdn.mathjax.org
 #2400:cb00:2048:1::6810:7012 i.stack.imgur.com
 #2406:da00:ff00::1715:538b s.stack.imgur.com
@@ -20918,16 +20918,16 @@
 #104.244.42.65 mobile.twitter.com
 #104.244.42.65 pic.twitter.com
 #104.244.42.65 s.twitter.com
-2606:2800:220:18bf:6c7:9b1:1836:15fb status.twitter.com #cs322.wac.edgecastcdn.net
+2606:2800:248:163:1dd5:2187:1354:23ef status.twitter.com #cs322.wac.edgecastcdn.net
 #104.244.42.65 support.twitter.com
 #104.244.42.65 www.twitter.com
 #104.244.42.133 t.co
 #2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com #cs472.wac.edgecastcdn.net
-2606:2800:220:de:468:2285:c1:4a3 platform.twitter.com #cs41.wac.edgecastcdn.net
-2606:2800:220:1410:489:141e:20bb:12f6 abs.twimg.com #ipv6.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df platform.twitter.com #cs41.wac.edgecastcdn.net
+2606:2800:248:1347:709:24f:182c:618 abs.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 abs-0.twimg.com #ipv6.twimg.com
-2606:2800:220:1410:489:141e:20bb:12f6 pbs.twimg.com #ipv6.twimg.com
-2606:2800:220:131d:1d30:1f1d:238b:1e56 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
+2606:2800:248:1347:709:24f:182c:618 pbs.twimg.com #ipv6.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
 #2606:1f80:a000:100::2 a0.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 a1.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 a2.twimg.com #ipv6.twimg.com
@@ -20937,15 +20937,15 @@
 #199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
 #2606:1f80:a000:100::2 amp.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 dnt.twimg.com #ipv6.twimg.com
-2606:2800:220:1410:489:141e:20bb:12f6 ea.twimg.com #ipv6.twimg.com
-2606:2800:220:853:175d:1e76:2377:224f g.twimg.com #ipv6.twimg.com
-2606:2800:220:18bf:6c7:9b1:1836:15fb g2.twimg.com #ipv6.twimg.com
-2606:2800:248:163:1dd5:2187:1354:23ef gu.twimg.com #ipv6.twimg.com
-2606:2800:220:1410:489:141e:20bb:12f6 hca.twimg.com #ipv6.twimg.com
-2606:2800:220:1410:489:141e:20bb:12f6 jp.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 ea.twimg.com #ipv6.twimg.com
+#2606:2800:220:853:175d:1e76:2377:224f g.twimg.com #ipv6.twimg.com
+2606:2800:248:163:1dd5:2187:1354:23ef g2.twimg.com #ipv6.twimg.com
+#2606:2800:248:163:1dd5:2187:1354:23ef gu.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 hca.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 jp.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 ma.twimg.com #ipv6.twimg.com
-2606:2800:220:1410:489:141e:20bb:12f6 o.twimg.com #ipv6.twimg.com
-2606:2800:220:1ead:1a38:1bef:134c:172c oem.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 o.twimg.com #ipv6.twimg.com
+#2606:2800:220:1ead:1a38:1bef:134c:172c oem.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 p.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 si0.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 si1.twimg.com #ipv6.twimg.com
@@ -20953,12 +20953,12 @@
 #2606:1f80:a000:100::2 si3.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 si4.twimg.com #ipv6.twimg.com
 #2606:1f80:a000:100::2 si5.twimg.com #ipv6.twimg.com
-2606:2800:220:1410:489:141e:20bb:12f6 ton.twimg.com #ipv6.twimg.com
-2606:2800:21f:dc2:1fe1:23fc:954:1461 video.twimg.com #ipv6.twimg.com
-2606:2800:220:18bf:6c7:9b1:1836:15fb tailfeather.twimg.com #cs322.wac.edgecastcdn.net
-2606:2800:220:1ead:1a38:1bef:134c:172c widgets.twimg.com #cs479.wac.edgecastcdn.net
+2606:2800:248:1347:709:24f:182c:618 ton.twimg.com #ipv6.twimg.com
+2606:2800:247:22e4:1f0b:18b4:207d:15b0 video.twimg.com #ipv6.twimg.com
+2606:2800:248:163:1dd5:2187:1354:23ef tailfeather.twimg.com #cs322.wac.edgecastcdn.net
+2606:2800:248:5f:1d30:1967:1659:bd2 widgets.twimg.com #cs479.wac.edgecastcdn.net
 #210.163.219.24 twimg.com
-2606:1f80:a000:102::2 ipv6.twimg.com
+2606:1f80:a000:107::2 ipv6.twimg.com
 
 ## We Heart It
 #117.18.237.125 assets1.whicdn.com #cs95.wac.edgecastcdn.net
