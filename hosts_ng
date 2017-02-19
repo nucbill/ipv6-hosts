@@ -1,0 +1,1799 @@
+## Facebook 脸谱网
+2a03:2880:f102:83:face:b00c::25de facebook.com
+2a03:2880:f102:83:face:b00c::25de www.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 0-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 1-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 2-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 3-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 4-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 5-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 6-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 api.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 api-read.facebook.com #api.facebook.com
+2a03:2880:f001:6:face:b00c::2 apps.facebook.com #star.facebook.com
+2a03:2880:f001:6:face:b00c::2 attachments.facebook.com #star.c10r.facebook.com
+2a03:2880:f101:84:face:b00c::14c9 b-api.facebook.com #z-m.facebook.com
+2a03:2880:f10d:184:face:b00c::14c9 b-graph.facebook.com #z-m.facebook.com
+2a03:2880:f001:6:face:b00c::2 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 code.facebook.com #star.facebook.com
+2a03:2880:f10d:183:face:b00c::25de connect.facebook.com #www.facebook.com
+2a03:2880:f00d:110:face:b00c::2 developers.facebook.com #star.facebook.com
+2a03:2880:f001:6:face:b00c::2 graph.facebook.com #api.facebook.com
+2a03:2880:f001:6:face:b00c::2 login.facebook.com #star.facebook.com
+2a03:2880:f101:83:face:b00c::25de m.facebook.com #star.c10r.facebook.com
+2a03:2880:f00d:10b:face:b00c::8e mqtt.facebook.com #mqtt.vvv.facebook.com
+2a03:2880:f00d:10b:face:b00c::8e edge-mqtt.facebook.com #mqtt.c10r.facebook.com
+2a03:2880:f101:83:face:b00c::25de pixel.facebook.com #star.facebook.com
+2a03:2880:f001:6:face:b00c::2 star.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 upload.facebook.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 zh-cn.facebook.com #star.facebook.com
+0.0.0.0 zh-tw.facebook.com #star.facebook.com
+0.0.0.0 star.c10r.facebook.com
+2a03:2880:f101:81:face:b00c::e17 snaptu-z.facebook.com #snaptu-mini.c10r.facebook.com
+0.0.0.0 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
+2a03:2880:f001:a0:face:b00c::4382 snaptu-p2.facebook.com #snaptu-p2.c10r.facebook.com
+2a03:2880:2020:8f06:face:b00c::12e vupload.facebook.com #vupload2.facebook.com
+2a03:2880:2020:8f06:face:b00c::12e vupload2.vvv.facebook.com
+2a03:2880:f00d:115:face:b00c::3 bigzipfiles.facebook.com
+2a03:2880:f00d:115:face:b00c::3 staticxx.facebook.com
+2a03:2880:20:8f08:face:b00c::1 apps.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 m.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:1010:5f07:face:b00c::12c pixel.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:1010:5f07:face:b00c::12c www.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 v6.vvv.facebook.com
+2a03:2880:f00d:110:face:b00c::2 attachment.fbsbx.com #star.c10r.facebook.com
+#2600:1417:9::b833:faa static.ak.facebook.com
+#2600:1406:3:18b::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
+#2610:d0:face::9 www.lisp6.facebook.com
+#2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+2a03:2880:f001:6:face:b00c::2 www.messenger.com #star.c10r.facebook.com
+2a03:2880:f001:6:face:b00c::2 messenger.com
+2a03:2880:f00d:110:face:b00c::2 edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f00d:110:face:b00c::2 0-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f00d:110:face:b00c::2 1-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f00d:110:face:b00c::2 2-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f00d:110:face:b00c::2 3-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f00d:110:face:b00c::2 4-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f00d:110:face:b00c::2 5-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f00d:110:face:b00c::2 6-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f101:83:face:b00c::25de www.fb.com #star.c10r.facebook.com
+2a03:2880:f102:83:face:b00c::25de fb.com
+#2600:1406:3:18b::172d investor.fb.com #e5933.dscb.akamaiedge.net
+2a03:2880:f00d:110:face:b00c::2 thefacebook.com
+2a03:2880:f10d:183:face:b00c::25de www.thefacebook.com #star.c10r.facebook.com
+
+## fbcdn.net
+2a03:2880:f00d:115:face:b00c::3 connect.facebook.net #connect.facebook.net.edgekey.net
+2620:10e:6000:4::c71a:fedb creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
+2620:10e:6000:4::c71a:fed9 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
+2620:10e:6000:4::c71a:fedb platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
+2610:18:f00:6::d174:974a profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
+#2600:1406:3:18b::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
+#2600:1406:3:18b::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
+2620:10e:6000:4::c71a:fed9 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
+2001:428:4c02:6::419e:72d8 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
+2a03:2880:f00d:115:face:b00c::3 scontent-a.xx.fbcdn.net
+2a03:2880:f00d:115:face:b00c::3 scontent-b.xx.fbcdn.net
+2a03:2880:f00c:19:face:b00c::3 scontent-a-sin.xx.fbcdn.net
+2a03:2880:f00c:19:face:b00c::3 scontent-b-sin.xx.fbcdn.net
+2a03:2880:f00d:8:face:b00c::1 scontent-a-lax.xx.fbcdn.net
+2a03:2880:f00d:115:face:b00c::3 scontent-b-lax.xx.fbcdn.net
+#2a03:2880:f00d:8:face:b00c::1 ent-a.xx.fbcdn.net
+#2a03:2880:f00d:8:face:b00c::1 ent-b.xx.fbcdn.net
+2a03:2880:f00d:115:face:b00c::3 scontent.xx.fbcdn.net
+2a03:2880:f00d:115:face:b00c::3 external.xx.fbcdn.net
+2a03:2880:f00d:115:face:b00c::3 static.xx.fbcdn.net
+2a03:2880:f00d:111:face:b00c::1823 video.xx.fbcdn.net
+
+2600:1406:3::b81c:bcaa fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bc98 fbcdn-photos-a-a.akamaihd.net #fbcdn-photos-a-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bcb0 fbcdn-photos-b-a.akamaihd.net #fbcdn-photos-b-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bca2 fbcdn-photos-c-a.akamaihd.net #fbcdn-photos-c-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bca0 fbcdn-photos-d-a.akamaihd.net #fbcdn-photos-d-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bca2 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bc92 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bc98 fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
+2600:1406:3::b81c:bc9a fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
+2610:18:f00:6::d174:972b fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2001:428:4c03::3fee:2a1 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
+2001:428:4c03::3fee:2c1 fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
+2001:428:4c03::3fee:2b8 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
+2001:428:4c03::3fee:2a1 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
+2001:428:4c03::3fee:2a1 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
+2001:428:4c03::3fee:28b fbcdn-sphotos-e-a.akamaihd.net #fbcdn-sphotos-e-a.akamaihd.net.edgesuite.net
+2001:428:4c03::3fee:2a9 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
+2600:1406:3f::17d7:641b fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
+2600:1406:3f::17d7:6452 fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72bb fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72c0 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72c0 fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72c9 fbcdn-video-d-a.akamaihd.net #fbcdn-video-d-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72d3 fbcdn-video-e-a.akamaihd.net #fbcdn-video-e-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72d8 fbcdn-video-f-a.akamaihd.net #fbcdn-video-f-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72c9 fbcdn-video-g-a.akamaihd.net #fbcdn-video-g-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72ca fbcdn-video-h-a.akamaihd.net #fbcdn-video-h-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72c9 fbcdn-video-i-a.akamaihd.net #fbcdn-video-i-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72d8 fbcdn-video-j-a.akamaihd.net #fbcdn-video-j-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72c9 fbcdn-video-k-a.akamaihd.net #fbcdn-video-k-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72d9 fbcdn-video-l-a.akamaihd.net #fbcdn-video-l-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72cb fbcdn-video-m-a.akamaihd.net #fbcdn-video-m-a.akamaihd.net.edgesuite.net
+2600:1417:9::6007:3630 fbcdn-video-n-a.akamaihd.net #fbcdn-video-n-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72da fbcdn-video-o-a.akamaihd.net #fbcdn-video-o-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72db fbcdn-video-p-a.akamaihd.net #fbcdn-video-p-a.akamaihd.net.edgesuite.net
+2001:428:4c02:6::419e:72d8 fbcdn-vthumb-a.akamaihd.net #fbcdn-vthumb-a.akamaihd.net.edgesuite.net
+2620:10e:6000:4::c71a:fed9 fbstatic-a.akamaihd.net #fbstatic-a.akamaihd.net.edgesuite.net
+2620:10e:6000:4::c71a:fed8 fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
+2620:10e:6000:4::c71a:fed8 fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
+
+#2600:1417:9::b833:f90 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+#2600:1417:9::b833:f90 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+#2600:1417:9::b833:f90 photos-c.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+#2600:1417:9::b833:f90 photos-e.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+#2600:1417:9::b833:f90 photos-f.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+#2600:1417:9::b833:f90 photos-g.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+#2600:1417:9::b833:f90 photos-h.ak.fbcdn.net #photos-d.ak.facebook.com.edgesuite.net
+#2600:1406:1a::173d:c228 a1.sphotos.ak.fbcdn.net #a1001.dspw40.akamai.net
+#2600:1406:1a::173d:c220 a2.sphotos.ak.fbcdn.net #a1402.dspw40.akamai.net
+#2600:1406:1a::173d:c221 a3.sphotos.ak.fbcdn.net #a1003.dspw41.akamai.net
+#2600:1406:1a::173d:c211 a4.sphotos.ak.fbcdn.net #a1404.dspw41.akamai.net
+#2600:1409:a::b81b:b241 a5.sphotos.ak.fbcdn.net #a1005.dspw42.akamai.net
+#2600:1409:a::b81b:b220 a6.sphotos.ak.fbcdn.net #a1406.dspw42.akamai.net
+#2600:1409:a::173b:be10 a7.sphotos.ak.fbcdn.net #a1007.dspw43.akamai.net
+#2600:1409:a::173b:be13 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
+
+## Instagram
+#2a03:2880:f20d:c4:face:b00c:0:43fe instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe www.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe i.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe api.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe help.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe blog.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe graph.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe logger.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe badges.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe platform.instagram.com
+#2a03:2880:f20d:c4:face:b00c:0:43fe maps.instagram.com
+2a03:2880:f201:c4:face:b00c::43fe scontent.cdninstagram.com
+2a03:2880:f201:c4:face:b00c::43fe scontent-a.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe scontent-b.cdninstagram.com
+2a03:2880:f222:c4:face:b00c::43fe scontent-a-sjc.cdninstagram.com
+2a03:2880:f222:c4:face:b00c::43fe scontent-b-sjc.cdninstagram.com
+2a03:2880:f20b:c4:face:b00c::43fe scontent-a-ord.cdninstagram.com
+2a03:2880:f20b:c4:face:b00c::43fe scontent-b-ord.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe scontent-a-lax.cdninstagram.com
+2a03:2880:f20d:c4:face:b00c::43fe scontent-b-lax.cdninstagram.com
+2001:428:4c03::3fee:290 igcdn-photos-a-a.akamaihd.net
+2001:428:4c03::3fee:2b8 igcdn-photos-b-a.akamaihd.net
+2001:428:4c03::3fee:29b igcdn-photos-c-a.akamaihd.net
+2001:428:4c03::3fee:2a1 igcdn-photos-d-a.akamaihd.net
+2001:428:4c03::3fee:2c3 igcdn-photos-e-a.akamaihd.net
+2001:428:4c03::3fee:2b0 igcdn-photos-f-a.akamaihd.net
+2600:1406:3f::17d7:6418 igcdn-photos-g-a.akamaihd.net
+2600:1406:3f::17d7:6452 igcdn-photos-h-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-a-0-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-a-1-a.akamaihd.net
+2001:428:7000:2::3f92:4559 igcdn-videos-a-2-a.akamaihd.net
+2001:428:7000:2::3f92:4559 igcdn-videos-a-3-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-a-4-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-a-5-a.akamaihd.net
+2001:428:7000:2::3f92:4561 igcdn-videos-a-6-a.akamaihd.net
+2600:1417:9::6007:3640 igcdn-videos-a-7-a.akamaihd.net
+2001:428:7000:2::3f92:456a igcdn-videos-a-8-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-a-9-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-a-10-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-a-11-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-a-12-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-a-13-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-a-14-a.akamaihd.net
+2001:418:8404:1::c657:367b igcdn-videos-a-15-a.akamaihd.net
+2001:418:8404:1::c657:368a igcdn-videos-a-16-a.akamaihd.net
+2001:418:8404:1::c657:368a igcdn-videos-a-17-a.akamaihd.net
+2001:418:8404:1::c657:368a igcdn-videos-a-18-a.akamaihd.net
+2001:418:8404:1::c657:3672 igcdn-videos-a-19-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-b-0-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-b-1-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-b-2-a.akamaihd.net
+2001:428:7000:2::3f92:456a igcdn-videos-b-3-a.akamaihd.net
+2001:428:7000:2::3f92:4561 igcdn-videos-b-4-a.akamaihd.net
+2001:428:7000:2::3f92:4561 igcdn-videos-b-5-a.akamaihd.net
+2001:428:7000:2::3f92:4561 igcdn-videos-b-6-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-b-7-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-b-8-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-b-9-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-b-10-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-b-11-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-b-12-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-b-13-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-b-14-a.akamaihd.net
+2001:418:8404:1::c657:3688 igcdn-videos-b-15-a.akamaihd.net
+2001:418:8404:1::c657:3668 igcdn-videos-b-16-a.akamaihd.net
+2001:418:8404:1::c657:3680 igcdn-videos-b-17-a.akamaihd.net
+2001:418:8404:1::c657:367a igcdn-videos-b-18-a.akamaihd.net
+2001:418:8404:1::c657:366b igcdn-videos-b-19-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-c-0-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-c-1-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-c-2-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-c-3-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-c-4-a.akamaihd.net
+2001:428:7000:2::3f92:456a igcdn-videos-c-5-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-c-6-a.akamaihd.net
+2001:428:7000:2::3f92:4561 igcdn-videos-c-7-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-c-8-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-c-9-a.akamaihd.net
+2001:428:7000:2::3f92:4560 igcdn-videos-c-10-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-c-11-a.akamaihd.net
+2001:428:7000:2::3f92:4551 igcdn-videos-c-12-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-c-13-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-c-14-a.akamaihd.net
+2001:418:8404:1::c657:3663 igcdn-videos-c-15-a.akamaihd.net
+2001:418:8404:1::c657:368b igcdn-videos-c-16-a.akamaihd.net
+2001:418:8404:1::c657:3682 igcdn-videos-c-17-a.akamaihd.net
+2001:418:8404:1::c657:3690 igcdn-videos-c-18-a.akamaihd.net
+2001:418:8404:1::c657:3689 igcdn-videos-c-19-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-d-0-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-d-1-a.akamaihd.net
+2001:428:7000:2::3f92:456a igcdn-videos-d-2-a.akamaihd.net
+2001:428:7000:2::3f92:4560 igcdn-videos-d-3-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-d-4-a.akamaihd.net
+2001:428:7000:2::3f92:4559 igcdn-videos-d-5-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-d-6-a.akamaihd.net
+2600:1417:9::6007:3652 igcdn-videos-d-7-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-d-8-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-d-9-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-d-10-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-d-11-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-d-12-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-d-13-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-d-14-a.akamaihd.net
+2001:418:8404:1::c657:3672 igcdn-videos-d-15-a.akamaihd.net
+2001:418:8404:1::c657:366a igcdn-videos-d-16-a.akamaihd.net
+2001:418:8404:1::c657:3662 igcdn-videos-d-17-a.akamaihd.net
+2001:418:8404:1::c657:368b igcdn-videos-d-18-a.akamaihd.net
+2001:418:8404:1::c657:366a igcdn-videos-d-19-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-e-0-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-e-1-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-e-2-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-e-3-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-e-4-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-e-5-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-e-6-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-e-7-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-e-8-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-e-9-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-e-10-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-e-11-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-e-12-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-e-13-a.akamaihd.net
+2001:428:7000:2::3f92:4560 igcdn-videos-e-14-a.akamaihd.net
+2001:418:8404:1::c657:3689 igcdn-videos-e-15-a.akamaihd.net
+2001:418:8404:1::c657:3661 igcdn-videos-e-16-a.akamaihd.net
+2001:418:8404:1::c657:366b igcdn-videos-e-17-a.akamaihd.net
+2001:418:8404:1::c657:367a igcdn-videos-e-18-a.akamaihd.net
+2001:418:8404:1::c657:368a igcdn-videos-e-19-a.akamaihd.net
+2001:428:7000:2::3f92:4560 igcdn-videos-f-0-a.akamaihd.net
+2001:428:7000:2::3f92:4559 igcdn-videos-f-1-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-f-2-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-f-3-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-f-4-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-f-5-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-f-6-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-f-7-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-f-8-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-f-9-a.akamaihd.net
+2001:428:7000:2::3f92:4560 igcdn-videos-f-10-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-f-11-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-f-12-a.akamaihd.net
+2001:428:7000:2::3f92:455b igcdn-videos-f-13-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-f-14-a.akamaihd.net
+2001:418:8404:1::c657:3682 igcdn-videos-f-15-a.akamaihd.net
+2001:418:8404:1::c657:3679 igcdn-videos-f-16-a.akamaihd.net
+2001:418:8404:1::c657:3673 igcdn-videos-f-17-a.akamaihd.net
+2001:418:8404:1::c657:366a igcdn-videos-f-18-a.akamaihd.net
+2001:418:8404:1::c657:3679 igcdn-videos-f-19-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-g-0-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-g-1-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-g-2-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-g-3-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-g-4-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-g-5-a.akamaihd.net
+2001:428:7000:2::3f92:454b igcdn-videos-g-6-a.akamaihd.net
+2600:1417:9::6007:3611 igcdn-videos-g-7-a.akamaihd.net
+2001:428:7000:2::3f92:4553 igcdn-videos-g-8-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-g-9-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-g-10-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-g-11-a.akamaihd.net
+2001:428:7000:2::3f92:4568 igcdn-videos-g-12-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-g-13-a.akamaihd.net
+2001:428:7000:2::3f92:4559 igcdn-videos-g-14-a.akamaihd.net
+2001:418:8404:1::c657:3672 igcdn-videos-g-15-a.akamaihd.net
+2001:418:8404:1::c657:3663 igcdn-videos-g-16-a.akamaihd.net
+2001:418:8404:1::c657:3670 igcdn-videos-g-17-a.akamaihd.net
+2001:418:8404:1::c657:3672 igcdn-videos-g-18-a.akamaihd.net
+2001:418:8404:1::c657:3689 igcdn-videos-g-19-a.akamaihd.net
+2001:428:7000:2::3f92:4560 igcdn-videos-h-0-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-h-1-a.akamaihd.net
+2001:428:7000:2::3f92:4569 igcdn-videos-h-2-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-h-3-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-h-4-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-h-5-a.akamaihd.net
+2001:428:7000:2::3f92:455a igcdn-videos-h-6-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-h-7-a.akamaihd.net
+2001:428:7000:2::3f92:4562 igcdn-videos-h-8-a.akamaihd.net
+2001:428:7000:2::3f92:4550 igcdn-videos-h-9-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-h-10-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-h-11-a.akamaihd.net
+2001:428:7000:2::3f92:456a igcdn-videos-h-12-a.akamaihd.net
+2001:428:7000:2::3f92:4552 igcdn-videos-h-13-a.akamaihd.net
+2001:428:7000:2::3f92:4558 igcdn-videos-h-14-a.akamaihd.net
+2001:418:8404:1::c657:3690 igcdn-videos-h-15-a.akamaihd.net
+2001:418:8404:1::c657:3668 igcdn-videos-h-16-a.akamaihd.net
+2001:418:8404:1::c657:3673 igcdn-videos-h-17-a.akamaihd.net
+2001:418:8404:1::c657:3673 igcdn-videos-h-18-a.akamaihd.net
+2001:418:8404:1::c657:3680 igcdn-videos-h-19-a.akamaihd.net
+2600:1406:3f::17d7:6463 instagramimages-a.akamaihd.net
+2620:10e:6000:4::c71a:fedb instagramstatic-a.akamaihd.net
+#2001:590:1:501::42ab:e018 photos-a.ak.instagram.com #photos-a.ak.instagram.com.edgesuite.net
+#2001:590:1:501::42ab:e010 photos-b.ak.instagram.com #photos-b.ak.instagram.com.edgesuite.net
+#2600:1404:2::1702:11bb photos-c.ak.instagram.com #photos-c.ak.instagram.com.edgesuite.net
+#2600:1404:2::1702:1191 photos-d.ak.instagram.com #photos-d.ak.instagram.com.edgesuite.net
+#2001:428:2001:302::3fe9:7e2a photos-e.ak.instagram.com #photos-e.ak.instagram.com.edgesuite.net
+#2001:428:2001:302::3fe9:7e18 photos-f.ak.instagram.com #photos-f.ak.instagram.com.edgesuite.net
+#2001:428:2001:302::3fe9:7e11 photos-g.ak.instagram.com #photos-g.ak.instagram.com.edgesuite.net
+#2600:1409:a::173b:be09 photos-h.ak.instagram.com #photos-h.ak.instagram.com.edgesuite.net
+
+## WikiMedia 维基媒体
+#2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
+#2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
+2620:0:863:ed1a::1 download.wikimedia.org
+2620:0:863:ed1a::1 download.wikipedia.org
+2620::861:1:208:80:154:11 dumps.wikimedia.org #dataset1001.wikimedia.org
+#2620:0:860:2:230:48ff:fe5a:eb1e dataset2.wikimedia.org
+#2620:0:862:1::80:2 blog.wikimedia.org
+#2620:0:862:1::80:2 geoiplookup.wikimedia.org
+2620:0:863:ed1a::1 svn.wikimedia.org
+#2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
+#2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org
+
+2620:0:861:3::2 lists.wikimedia.org
+2620:0:863:ed1a::1 wikimedia.org
+2620:0:863:ed1a::1 wikimediafoundation.org
+2620:0:863:ed1a::1 www.mediawiki.org
+2620:0:863:ed1a::1 www.wikimedia.org
+2620:0:863:ed1a::1 commons.wikimedia.org
+2620:0:863:ed1a::1 incubator.wikimedia.org
+2620:0:863:ed1a::1 meta.wikimedia.org
+2620:0:863:ed1a::1 secure.wikimedia.org
+2620:0:863:ed1a::1 species.wikimedia.org
+#2620:0:863:ed1a::1 bits.wikimedia.org
+2620:0:863:ed1a::2:b upload.wikimedia.org
+#2620:0:863:ed1a::1 wikimedia-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikipedia-lb.wikimedia.org
+#2620:0:863:ed1a::1 wiktionary-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikiquote-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikibooks-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikisource-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikinews-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikiversity-lb.wikimedia.org
+#2620:0:863:ed1a::1 mediawiki-lb.wikimedia.org
+2620:0:863:ed1a::1 m.wikimedia.org
+2620:0:863:ed1a::3:d en.planet.wikimedia.org #misc-web-lb.eqiad.wikimedia.org
+#2620:0:861:1:208:80:154:41 zirconium.wikimedia.org
+
+#2620:0:860:ed1a:: wikimedia-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::1 wikipedia-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::2 wiktionary-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::3 wikiquote-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::4 wikibooks-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::5 wikisource-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::6 wikinews-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::7 wikiversity-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::8 mediawiki-lb.pmtpa.wikimedia.org
+#2620:0:861:ed1a:: wikimedia-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::1 wikipedia-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::2 wiktionary-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::3 wikiquote-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::4 wikibooks-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::5 wikisource-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::6 wikinews-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::7 wikiversity-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::8 mediawiki-lb.eqiad.wikimedia.org
+#2620:0:862:ed1a:: wikimedia-lb.esams.wikimedia.org
+#2620:0:862:ed1a::1 wikipedia-lb.esams.wikimedia.org
+#2620:0:862:ed1a::2 wiktionary-lb.esams.wikimedia.org
+#2620:0:862:ed1a::3 wikiquote-lb.esams.wikimedia.org
+#2620:0:862:ed1a::4 wikibooks-lb.esams.wikimedia.org
+#2620:0:862:ed1a::5 wikisource-lb.esams.wikimedia.org
+#2620:0:862:ed1a::6 wikinews-lb.esams.wikimedia.org
+#2620:0:862:ed1a::7 wikiversity-lb.esams.wikimedia.org
+#2620:0:862:ed1a::8 mediawiki-lb.esams.wikimedia.org
+
+2620:0:861:ed1a::1 text-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::1:a bits-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::1:c mobile-lb.eqiad.wikimedia.org
+2620:0:861:ed1a::2:b upload-lb.eqiad.wikimedia.org
+2620:0:863:ed1a::1 text-lb.ulsfo.wikimedia.org
+#2620:0:863:ed1a::1:a bits-lb.ulsfo.wikimedia.org
+#2620:0:863:ed1a::1:c mobile-lb.ulsfo.wikimedia.org
+2620:0:863:ed1a::2:b upload-lb.ulsfo.wikimedia.org
+
+## WikiBooks 维基教科书
+2620:0:863:ed1a::1 wikibooks.org
+2620:0:863:ed1a::1 www.wikibooks.org
+2620:0:863:ed1a::1 aa.wikibooks.org
+2620:0:863:ed1a::1 af.wikibooks.org
+2620:0:863:ed1a::1 ak.wikibooks.org
+2620:0:863:ed1a::1 als.wikibooks.org
+2620:0:863:ed1a::1 ang.wikibooks.org
+2620:0:863:ed1a::1 ar.wikibooks.org
+2620:0:863:ed1a::1 as.wikibooks.org
+2620:0:863:ed1a::1 ast.wikibooks.org
+2620:0:863:ed1a::1 ay.wikibooks.org
+2620:0:863:ed1a::1 az.wikibooks.org
+2620:0:863:ed1a::1 ba.wikibooks.org
+2620:0:863:ed1a::1 be.wikibooks.org
+2620:0:863:ed1a::1 bg.wikibooks.org
+2620:0:863:ed1a::1 bi.wikibooks.org
+2620:0:863:ed1a::1 bm.wikibooks.org
+2620:0:863:ed1a::1 bn.wikibooks.org
+2620:0:863:ed1a::1 bo.wikibooks.org
+2620:0:863:ed1a::1 bs.wikibooks.org
+2620:0:863:ed1a::1 ca.wikibooks.org
+2620:0:863:ed1a::1 ch.wikibooks.org
+2620:0:863:ed1a::1 co.wikibooks.org
+2620:0:863:ed1a::1 cs.wikibooks.org
+2620:0:863:ed1a::1 cv.wikibooks.org
+2620:0:863:ed1a::1 cy.wikibooks.org
+2620:0:863:ed1a::1 da.wikibooks.org
+2620:0:863:ed1a::1 de.wikibooks.org
+2620:0:863:ed1a::1 el.wikibooks.org
+2620:0:863:ed1a::1 en.wikibooks.org
+2620:0:863:ed1a::1 eo.wikibooks.org
+2620:0:863:ed1a::1 es.wikibooks.org
+2620:0:863:ed1a::1 et.wikibooks.org
+2620:0:863:ed1a::1 eu.wikibooks.org
+2620:0:863:ed1a::1 fa.wikibooks.org
+2620:0:863:ed1a::1 fi.wikibooks.org
+2620:0:863:ed1a::1 fr.wikibooks.org
+2620:0:863:ed1a::1 fy.wikibooks.org
+2620:0:863:ed1a::1 ga.wikibooks.org
+2620:0:863:ed1a::1 gl.wikibooks.org
+2620:0:863:ed1a::1 gn.wikibooks.org
+2620:0:863:ed1a::1 got.wikibooks.org
+2620:0:863:ed1a::1 gu.wikibooks.org
+2620:0:863:ed1a::1 he.wikibooks.org
+2620:0:863:ed1a::1 hi.wikibooks.org
+2620:0:863:ed1a::1 hr.wikibooks.org
+2620:0:863:ed1a::1 hu.wikibooks.org
+2620:0:863:ed1a::1 hy.wikibooks.org
+2620:0:863:ed1a::1 ia.wikibooks.org
+2620:0:863:ed1a::1 id.wikibooks.org
+2620:0:863:ed1a::1 ie.wikibooks.org
+2620:0:863:ed1a::1 is.wikibooks.org
+2620:0:863:ed1a::1 it.wikibooks.org
+2620:0:863:ed1a::1 ja.wikibooks.org
+2620:0:863:ed1a::1 ka.wikibooks.org
+2620:0:863:ed1a::1 kk.wikibooks.org
+2620:0:863:ed1a::1 km.wikibooks.org
+2620:0:863:ed1a::1 kn.wikibooks.org
+2620:0:863:ed1a::1 ko.wikibooks.org
+2620:0:863:ed1a::1 ks.wikibooks.org
+2620:0:863:ed1a::1 ku.wikibooks.org
+2620:0:863:ed1a::1 ky.wikibooks.org
+2620:0:863:ed1a::1 la.wikibooks.org
+2620:0:863:ed1a::1 lb.wikibooks.org
+2620:0:863:ed1a::1 li.wikibooks.org
+2620:0:863:ed1a::1 ln.wikibooks.org
+2620:0:863:ed1a::1 lt.wikibooks.org
+2620:0:863:ed1a::1 lv.wikibooks.org
+2620:0:863:ed1a::1 mg.wikibooks.org
+2620:0:863:ed1a::1 mi.wikibooks.org
+2620:0:863:ed1a::1 mk.wikibooks.org
+2620:0:863:ed1a::1 ml.wikibooks.org
+2620:0:863:ed1a::1 mn.wikibooks.org
+2620:0:863:ed1a::1 mr.wikibooks.org
+2620:0:863:ed1a::1 ms.wikibooks.org
+2620:0:863:ed1a::1 my.wikibooks.org
+2620:0:863:ed1a::1 na.wikibooks.org
+2620:0:863:ed1a::1 nah.wikibooks.org
+2620:0:863:ed1a::1 nds.wikibooks.org
+2620:0:863:ed1a::1 ne.wikibooks.org
+2620:0:863:ed1a::1 nl.wikibooks.org
+2620:0:863:ed1a::1 no.wikibooks.org
+2620:0:863:ed1a::1 oc.wikibooks.org
+2620:0:863:ed1a::1 pa.wikibooks.org
+2620:0:863:ed1a::1 pl.wikibooks.org
+2620:0:863:ed1a::1 ps.wikibooks.org
+2620:0:863:ed1a::1 pt.wikibooks.org
+2620:0:863:ed1a::1 qu.wikibooks.org
+2620:0:863:ed1a::1 rm.wikibooks.org
+2620:0:863:ed1a::1 ro.wikibooks.org
+2620:0:863:ed1a::1 ru.wikibooks.org
+2620:0:863:ed1a::1 sa.wikibooks.org
+2620:0:863:ed1a::1 se.wikibooks.org
+2620:0:863:ed1a::1 si.wikibooks.org
+2620:0:863:ed1a::1 simple.wikibooks.org
+2620:0:863:ed1a::1 sk.wikibooks.org
+2620:0:863:ed1a::1 sl.wikibooks.org
+2620:0:863:ed1a::1 sq.wikibooks.org
+2620:0:863:ed1a::1 sr.wikibooks.org
+2620:0:863:ed1a::1 su.wikibooks.org
+2620:0:863:ed1a::1 sv.wikibooks.org
+2620:0:863:ed1a::1 sw.wikibooks.org
+2620:0:863:ed1a::1 ta.wikibooks.org
+2620:0:863:ed1a::1 te.wikibooks.org
+2620:0:863:ed1a::1 tg.wikibooks.org
+2620:0:863:ed1a::1 th.wikibooks.org
+2620:0:863:ed1a::1 tk.wikibooks.org
+2620:0:863:ed1a::1 tl.wikibooks.org
+2620:0:863:ed1a::1 tr.wikibooks.org
+2620:0:863:ed1a::1 tt.wikibooks.org
+2620:0:863:ed1a::1 ug.wikibooks.org
+2620:0:863:ed1a::1 uk.wikibooks.org
+2620:0:863:ed1a::1 ur.wikibooks.org
+2620:0:863:ed1a::1 uz.wikibooks.org
+2620:0:863:ed1a::1 vi.wikibooks.org
+2620:0:863:ed1a::1 vo.wikibooks.org
+2620:0:863:ed1a::1 wa.wikibooks.org
+2620:0:863:ed1a::1 xh.wikibooks.org
+2620:0:863:ed1a::1 yo.wikibooks.org
+2620:0:863:ed1a::1 za.wikibooks.org
+2620:0:863:ed1a::1 zh.wikibooks.org
+2620:0:863:ed1a::1 zh-min-nan.wikibooks.org
+2620:0:863:ed1a::1 zu.wikibooks.org
+
+## WikiNews 维基新闻
+2620:0:863:ed1a::1 wikinews.org
+2620:0:863:ed1a::1 www.wikinews.org
+2620:0:863:ed1a::1 ar.wikinews.org
+2620:0:863:ed1a::1 bg.wikinews.org
+2620:0:863:ed1a::1 bs.wikinews.org
+2620:0:863:ed1a::1 ca.wikinews.org
+2620:0:863:ed1a::1 cs.wikinews.org
+2620:0:863:ed1a::1 de.wikinews.org
+2620:0:863:ed1a::1 el.wikinews.org
+2620:0:863:ed1a::1 en.wikinews.org
+2620:0:863:ed1a::1 eo.wikinews.org
+2620:0:863:ed1a::1 es.wikinews.org
+2620:0:863:ed1a::1 fa.wikinews.org
+2620:0:863:ed1a::1 fi.wikinews.org
+2620:0:863:ed1a::1 fr.wikinews.org
+2620:0:863:ed1a::1 he.wikinews.org
+2620:0:863:ed1a::1 hu.wikinews.org
+2620:0:863:ed1a::1 it.wikinews.org
+2620:0:863:ed1a::1 ja.wikinews.org
+2620:0:863:ed1a::1 ko.wikinews.org
+2620:0:863:ed1a::1 nl.wikinews.org
+2620:0:863:ed1a::1 no.wikinews.org
+2620:0:863:ed1a::1 pl.wikinews.org
+2620:0:863:ed1a::1 pt.wikinews.org
+2620:0:863:ed1a::1 ro.wikinews.org
+2620:0:863:ed1a::1 ru.wikinews.org
+2620:0:863:ed1a::1 sd.wikinews.org
+2620:0:863:ed1a::1 sq.wikinews.org
+2620:0:863:ed1a::1 sr.wikinews.org
+2620:0:863:ed1a::1 sv.wikinews.org
+2620:0:863:ed1a::1 ta.wikinews.org
+2620:0:863:ed1a::1 th.wikinews.org
+2620:0:863:ed1a::1 tr.wikinews.org
+2620:0:863:ed1a::1 uk.wikinews.org
+2620:0:863:ed1a::1 zh.wikinews.org
+
+## WikiPedia 维基百科
+2620:0:863:ed1a::1 wikipedia.org
+2620:0:863:ed1a::1 www.wikipedia.org
+2620:0:863:ed1a::1 aa.wikipedia.org
+2620:0:863:ed1a::1 ab.wikipedia.org
+2620:0:863:ed1a::1 ace.wikipedia.org
+2620:0:863:ed1a::1 af.wikipedia.org
+2620:0:863:ed1a::1 ak.wikipedia.org
+2620:0:863:ed1a::1 als.wikipedia.org
+2620:0:863:ed1a::1 am.wikipedia.org
+2620:0:863:ed1a::1 an.wikipedia.org
+2620:0:863:ed1a::1 ang.wikipedia.org
+2620:0:863:ed1a::1 ar.wikipedia.org
+2620:0:863:ed1a::1 arc.wikipedia.org
+2620:0:863:ed1a::1 arz.wikipedia.org
+2620:0:863:ed1a::1 as.wikipedia.org
+2620:0:863:ed1a::1 ast.wikipedia.org
+2620:0:863:ed1a::1 av.wikipedia.org
+2620:0:863:ed1a::1 ay.wikipedia.org
+2620:0:863:ed1a::1 az.wikipedia.org
+2620:0:863:ed1a::1 ba.wikipedia.org
+2620:0:863:ed1a::1 bar.wikipedia.org
+2620:0:863:ed1a::1 bat-smg.wikipedia.org
+2620:0:863:ed1a::1 bcl.wikipedia.org
+2620:0:863:ed1a::1 be.wikipedia.org
+2620:0:863:ed1a::1 be-x-old.wikipedia.org
+2620:0:863:ed1a::1 bg.wikipedia.org
+2620:0:863:ed1a::1 bh.wikipedia.org
+2620:0:863:ed1a::1 bi.wikipedia.org
+2620:0:863:ed1a::1 bm.wikipedia.org
+2620:0:863:ed1a::1 bn.wikipedia.org
+2620:0:863:ed1a::1 bo.wikipedia.org
+2620:0:863:ed1a::1 bpy.wikipedia.org
+2620:0:863:ed1a::1 br.wikipedia.org
+2620:0:863:ed1a::1 bs.wikipedia.org
+2620:0:863:ed1a::1 bug.wikipedia.org
+2620:0:863:ed1a::1 bxr.wikipedia.org
+2620:0:863:ed1a::1 ca.wikipedia.org
+2620:0:863:ed1a::1 cbk-zam.wikipedia.org
+2620:0:863:ed1a::1 cdo.wikipedia.org
+2620:0:863:ed1a::1 ce.wikipedia.org
+2620:0:863:ed1a::1 ceb.wikipedia.org
+2620:0:863:ed1a::1 ch.wikipedia.org
+2620:0:863:ed1a::1 chr.wikipedia.org
+2620:0:863:ed1a::1 chy.wikipedia.org
+2620:0:863:ed1a::1 ckb.wikipedia.org
+2620:0:863:ed1a::1 co.wikipedia.org
+2620:0:863:ed1a::1 cr.wikipedia.org
+2620:0:863:ed1a::1 crh.wikipedia.org
+2620:0:863:ed1a::1 cs.wikipedia.org
+2620:0:863:ed1a::1 csb.wikipedia.org
+2620:0:863:ed1a::1 cu.wikipedia.org
+2620:0:863:ed1a::1 cv.wikipedia.org
+2620:0:863:ed1a::1 cy.wikipedia.org
+2620:0:863:ed1a::1 da.wikipedia.org
+2620:0:863:ed1a::1 de.wikipedia.org
+2620:0:863:ed1a::1 diq.wikipedia.org
+2620:0:863:ed1a::1 dsb.wikipedia.org
+2620:0:863:ed1a::1 dv.wikipedia.org
+2620:0:863:ed1a::1 dz.wikipedia.org
+2620:0:863:ed1a::1 ee.wikipedia.org
+2620:0:863:ed1a::1 el.wikipedia.org
+2620:0:863:ed1a::1 eml.wikipedia.org
+2620:0:863:ed1a::1 en.wikipedia.org
+2620:0:863:ed1a::1 eo.wikipedia.org
+2620:0:863:ed1a::1 es.wikipedia.org
+2620:0:863:ed1a::1 et.wikipedia.org
+2620:0:863:ed1a::1 eu.wikipedia.org
+2620:0:863:ed1a::1 ext.wikipedia.org
+2620:0:863:ed1a::1 fa.wikipedia.org
+2620:0:863:ed1a::1 ff.wikipedia.org
+2620:0:863:ed1a::1 fi.wikipedia.org
+2620:0:863:ed1a::1 fiu-vro.wikipedia.org
+2620:0:863:ed1a::1 fj.wikipedia.org
+2620:0:863:ed1a::1 fo.wikipedia.org
+2620:0:863:ed1a::1 fr.wikipedia.org
+2620:0:863:ed1a::1 frp.wikipedia.org
+2620:0:863:ed1a::1 fur.wikipedia.org
+2620:0:863:ed1a::1 fy.wikipedia.org
+2620:0:863:ed1a::1 ga.wikipedia.org
+2620:0:863:ed1a::1 gan.wikipedia.org
+2620:0:863:ed1a::1 gd.wikipedia.org
+2620:0:863:ed1a::1 gl.wikipedia.org
+2620:0:863:ed1a::1 glk.wikipedia.org
+2620:0:863:ed1a::1 gn.wikipedia.org
+2620:0:863:ed1a::1 got.wikipedia.org
+2620:0:863:ed1a::1 gu.wikipedia.org
+2620:0:863:ed1a::1 gv.wikipedia.org
+2620:0:863:ed1a::1 ha.wikipedia.org
+2620:0:863:ed1a::1 hak.wikipedia.org
+2620:0:863:ed1a::1 haw.wikipedia.org
+2620:0:863:ed1a::1 he.wikipedia.org
+2620:0:863:ed1a::1 hi.wikipedia.org
+2620:0:863:ed1a::1 hif.wikipedia.org
+2620:0:863:ed1a::1 hr.wikipedia.org
+2620:0:863:ed1a::1 hsb.wikipedia.org
+2620:0:863:ed1a::1 ht.wikipedia.org
+2620:0:863:ed1a::1 hu.wikipedia.org
+2620:0:863:ed1a::1 hy.wikipedia.org
+2620:0:863:ed1a::1 ia.wikipedia.org
+2620:0:863:ed1a::1 id.wikipedia.org
+2620:0:863:ed1a::1 ie.wikipedia.org
+2620:0:863:ed1a::1 ig.wikipedia.org
+2620:0:863:ed1a::1 ik.wikipedia.org
+2620:0:863:ed1a::1 ilo.wikipedia.org
+2620:0:863:ed1a::1 io.wikipedia.org
+2620:0:863:ed1a::1 is.wikipedia.org
+2620:0:863:ed1a::1 it.wikipedia.org
+2620:0:863:ed1a::1 iu.wikipedia.org
+2620:0:863:ed1a::1 ja.wikipedia.org
+2620:0:863:ed1a::1 jbo.wikipedia.org
+2620:0:863:ed1a::1 jv.wikipedia.org
+2620:0:863:ed1a::1 ka.wikipedia.org
+2620:0:863:ed1a::1 kaa.wikipedia.org
+2620:0:863:ed1a::1 kab.wikipedia.org
+2620:0:863:ed1a::1 kg.wikipedia.org
+2620:0:863:ed1a::1 ki.wikipedia.org
+2620:0:863:ed1a::1 kk.wikipedia.org
+2620:0:863:ed1a::1 kl.wikipedia.org
+2620:0:863:ed1a::1 km.wikipedia.org
+2620:0:863:ed1a::1 kn.wikipedia.org
+2620:0:863:ed1a::1 ko.wikipedia.org
+2620:0:863:ed1a::1 krc.wikipedia.org
+2620:0:863:ed1a::1 ks.wikipedia.org
+2620:0:863:ed1a::1 ksh.wikipedia.org
+2620:0:863:ed1a::1 ku.wikipedia.org
+2620:0:863:ed1a::1 kv.wikipedia.org
+2620:0:863:ed1a::1 kw.wikipedia.org
+2620:0:863:ed1a::1 ky.wikipedia.org
+2620:0:863:ed1a::1 la.wikipedia.org
+2620:0:863:ed1a::1 lad.wikipedia.org
+2620:0:863:ed1a::1 lb.wikipedia.org
+2620:0:863:ed1a::1 lbe.wikipedia.org
+2620:0:863:ed1a::1 lg.wikipedia.org
+2620:0:863:ed1a::1 li.wikipedia.org
+2620:0:863:ed1a::1 lij.wikipedia.org
+2620:0:863:ed1a::1 lmo.wikipedia.org
+2620:0:863:ed1a::1 ln.wikipedia.org
+2620:0:863:ed1a::1 lo.wikipedia.org
+2620:0:863:ed1a::1 lt.wikipedia.org
+2620:0:863:ed1a::1 lv.wikipedia.org
+2620:0:863:ed1a::1 map-bms.wikipedia.org
+2620:0:863:ed1a::1 mdf.wikipedia.org
+2620:0:863:ed1a::1 mg.wikipedia.org
+2620:0:863:ed1a::1 mh.wikipedia.org
+2620:0:863:ed1a::1 mhr.wikipedia.org
+2620:0:863:ed1a::1 mi.wikipedia.org
+2620:0:863:ed1a::1 mk.wikipedia.org
+2620:0:863:ed1a::1 ml.wikipedia.org
+2620:0:863:ed1a::1 mn.wikipedia.org
+2620:0:863:ed1a::1 mr.wikipedia.org
+2620:0:863:ed1a::1 ms.wikipedia.org
+2620:0:863:ed1a::1 mt.wikipedia.org
+2620:0:863:ed1a::1 mwl.wikipedia.org
+2620:0:863:ed1a::1 my.wikipedia.org
+2620:0:863:ed1a::1 myv.wikipedia.org
+2620:0:863:ed1a::1 mzn.wikipedia.org
+2620:0:863:ed1a::1 na.wikipedia.org
+2620:0:863:ed1a::1 nah.wikipedia.org
+2620:0:863:ed1a::1 nap.wikipedia.org
+2620:0:863:ed1a::1 nds.wikipedia.org
+2620:0:863:ed1a::1 nds-nl.wikipedia.org
+2620:0:863:ed1a::1 ne.wikipedia.org
+2620:0:863:ed1a::1 new.wikipedia.org
+2620:0:863:ed1a::1 ng.wikipedia.org
+2620:0:863:ed1a::1 nl.wikipedia.org
+2620:0:863:ed1a::1 nn.wikipedia.org
+2620:0:863:ed1a::1 no.wikipedia.org
+2620:0:863:ed1a::1 nov.wikipedia.org
+2620:0:863:ed1a::1 nrm.wikipedia.org
+2620:0:863:ed1a::1 nv.wikipedia.org
+2620:0:863:ed1a::1 ny.wikipedia.org
+2620:0:863:ed1a::1 oc.wikipedia.org
+2620:0:863:ed1a::1 om.wikipedia.org
+2620:0:863:ed1a::1 or.wikipedia.org
+2620:0:863:ed1a::1 os.wikipedia.org
+2620:0:863:ed1a::1 pa.wikipedia.org
+2620:0:863:ed1a::1 pag.wikipedia.org
+2620:0:863:ed1a::1 pam.wikipedia.org
+2620:0:863:ed1a::1 pap.wikipedia.org
+2620:0:863:ed1a::1 pcd.wikipedia.org
+2620:0:863:ed1a::1 pdc.wikipedia.org
+2620:0:863:ed1a::1 pi.wikipedia.org
+2620:0:863:ed1a::1 pih.wikipedia.org
+2620:0:863:ed1a::1 pl.wikipedia.org
+2620:0:863:ed1a::1 pms.wikipedia.org
+2620:0:863:ed1a::1 pnb.wikipedia.org
+2620:0:863:ed1a::1 pnt.wikipedia.org
+2620:0:863:ed1a::1 ps.wikipedia.org
+2620:0:863:ed1a::1 pt.wikipedia.org
+2620:0:863:ed1a::1 qu.wikipedia.org
+2620:0:863:ed1a::1 rm.wikipedia.org
+2620:0:863:ed1a::1 rmy.wikipedia.org
+2620:0:863:ed1a::1 rn.wikipedia.org
+2620:0:863:ed1a::1 ro.wikipedia.org
+2620:0:863:ed1a::1 roa-rup.wikipedia.org
+2620:0:863:ed1a::1 roa-tara.wikipedia.org
+2620:0:863:ed1a::1 ru.wikipedia.org
+2620:0:863:ed1a::1 rw.wikipedia.org
+2620:0:863:ed1a::1 sa.wikipedia.org
+2620:0:863:ed1a::1 sah.wikipedia.org
+2620:0:863:ed1a::1 sc.wikipedia.org
+2620:0:863:ed1a::1 scn.wikipedia.org
+2620:0:863:ed1a::1 sco.wikipedia.org
+2620:0:863:ed1a::1 sd.wikipedia.org
+2620:0:863:ed1a::1 se.wikipedia.org
+2620:0:863:ed1a::1 sg.wikipedia.org
+2620:0:863:ed1a::1 sh.wikipedia.org
+2620:0:863:ed1a::1 si.wikipedia.org
+2620:0:863:ed1a::1 simple.wikipedia.org
+2620:0:863:ed1a::1 sk.wikipedia.org
+2620:0:863:ed1a::1 sl.wikipedia.org
+2620:0:863:ed1a::1 sm.wikipedia.org
+2620:0:863:ed1a::1 sn.wikipedia.org
+2620:0:863:ed1a::1 so.wikipedia.org
+2620:0:863:ed1a::1 sq.wikipedia.org
+2620:0:863:ed1a::1 sr.wikipedia.org
+2620:0:863:ed1a::1 srn.wikipedia.org
+2620:0:863:ed1a::1 ss.wikipedia.org
+2620:0:863:ed1a::1 st.wikipedia.org
+2620:0:863:ed1a::1 stq.wikipedia.org
+2620:0:863:ed1a::1 su.wikipedia.org
+2620:0:863:ed1a::1 sv.wikipedia.org
+2620:0:863:ed1a::1 sw.wikipedia.org
+2620:0:863:ed1a::1 szl.wikipedia.org
+2620:0:863:ed1a::1 ta.wikipedia.org
+2620:0:863:ed1a::1 te.wikipedia.org
+2620:0:863:ed1a::1 tet.wikipedia.org
+2620:0:863:ed1a::1 tg.wikipedia.org
+2620:0:863:ed1a::1 th.wikipedia.org
+2620:0:863:ed1a::1 ti.wikipedia.org
+2620:0:863:ed1a::1 tk.wikipedia.org
+2620:0:863:ed1a::1 tl.wikipedia.org
+2620:0:863:ed1a::1 tn.wikipedia.org
+2620:0:863:ed1a::1 to.wikipedia.org
+2620:0:863:ed1a::1 tpi.wikipedia.org
+2620:0:863:ed1a::1 tr.wikipedia.org
+2620:0:863:ed1a::1 ts.wikipedia.org
+2620:0:863:ed1a::1 tt.wikipedia.org
+2620:0:863:ed1a::1 tum.wikipedia.org
+2620:0:863:ed1a::1 tw.wikipedia.org
+2620:0:863:ed1a::1 ty.wikipedia.org
+2620:0:863:ed1a::1 udm.wikipedia.org
+2620:0:863:ed1a::1 ug.wikipedia.org
+2620:0:863:ed1a::1 uk.wikipedia.org
+2620:0:863:ed1a::1 ur.wikipedia.org
+2620:0:863:ed1a::1 uz.wikipedia.org
+2620:0:863:ed1a::1 ve.wikipedia.org
+2620:0:863:ed1a::1 vec.wikipedia.org
+2620:0:863:ed1a::1 vi.wikipedia.org
+2620:0:863:ed1a::1 vls.wikipedia.org
+2620:0:863:ed1a::1 vo.wikipedia.org
+2620:0:863:ed1a::1 wa.wikipedia.org
+2620:0:863:ed1a::1 war.wikipedia.org
+2620:0:863:ed1a::1 wo.wikipedia.org
+2620:0:863:ed1a::1 wuu.wikipedia.org
+2620:0:863:ed1a::1 xal.wikipedia.org
+2620:0:863:ed1a::1 xh.wikipedia.org
+2620:0:863:ed1a::1 yi.wikipedia.org
+2620:0:863:ed1a::1 yo.wikipedia.org
+2620:0:863:ed1a::1 za.wikipedia.org
+2620:0:863:ed1a::1 zea.wikipedia.org
+2620:0:863:ed1a::1 zh.wikipedia.org
+2620:0:863:ed1a::1 zh-classical.wikipedia.org
+2620:0:863:ed1a::1 zh-min-nan.wikipedia.org
+2620:0:863:ed1a::1 zh-yue.wikipedia.org
+2620:0:863:ed1a::1 zu.wikipedia.org
+
+## WikiPedia Mobile 维基百科移动版
+2620:0:863:ed1a::1 m.wikipedia.org
+2620:0:863:ed1a::1 en.m.wikipedia.org
+2620:0:863:ed1a::1 zh.m.wikipedia.org
+
+## WikiQuote 维基语录
+2620:0:863:ed1a::1 wikiquote.org
+2620:0:863:ed1a::1 www.wikiquote.org
+2620:0:863:ed1a::1 af.wikiquote.org
+2620:0:863:ed1a::1 als.wikiquote.org
+2620:0:863:ed1a::1 am.wikiquote.org
+2620:0:863:ed1a::1 ang.wikiquote.org
+2620:0:863:ed1a::1 ar.wikiquote.org
+2620:0:863:ed1a::1 ast.wikiquote.org
+2620:0:863:ed1a::1 az.wikiquote.org
+2620:0:863:ed1a::1 be.wikiquote.org
+2620:0:863:ed1a::1 bg.wikiquote.org
+2620:0:863:ed1a::1 bm.wikiquote.org
+2620:0:863:ed1a::1 br.wikiquote.org
+2620:0:863:ed1a::1 bs.wikiquote.org
+2620:0:863:ed1a::1 ca.wikiquote.org
+2620:0:863:ed1a::1 co.wikiquote.org
+2620:0:863:ed1a::1 cr.wikiquote.org
+2620:0:863:ed1a::1 cs.wikiquote.org
+2620:0:863:ed1a::1 cy.wikiquote.org
+2620:0:863:ed1a::1 da.wikiquote.org
+2620:0:863:ed1a::1 de.wikiquote.org
+2620:0:863:ed1a::1 el.wikiquote.org
+2620:0:863:ed1a::1 en.wikiquote.org
+2620:0:863:ed1a::1 eo.wikiquote.org
+2620:0:863:ed1a::1 es.wikiquote.org
+2620:0:863:ed1a::1 et.wikiquote.org
+2620:0:863:ed1a::1 eu.wikiquote.org
+2620:0:863:ed1a::1 fa.wikiquote.org
+2620:0:863:ed1a::1 fi.wikiquote.org
+2620:0:863:ed1a::1 fr.wikiquote.org
+2620:0:863:ed1a::1 ga.wikiquote.org
+2620:0:863:ed1a::1 gl.wikiquote.org
+2620:0:863:ed1a::1 gu.wikiquote.org
+2620:0:863:ed1a::1 he.wikiquote.org
+2620:0:863:ed1a::1 hi.wikiquote.org
+2620:0:863:ed1a::1 hr.wikiquote.org
+2620:0:863:ed1a::1 hu.wikiquote.org
+2620:0:863:ed1a::1 hy.wikiquote.org
+2620:0:863:ed1a::1 id.wikiquote.org
+2620:0:863:ed1a::1 is.wikiquote.org
+2620:0:863:ed1a::1 it.wikiquote.org
+2620:0:863:ed1a::1 ja.wikiquote.org
+2620:0:863:ed1a::1 ka.wikiquote.org
+2620:0:863:ed1a::1 kk.wikiquote.org
+2620:0:863:ed1a::1 kn.wikiquote.org
+2620:0:863:ed1a::1 ko.wikiquote.org
+2620:0:863:ed1a::1 kr.wikiquote.org
+2620:0:863:ed1a::1 ks.wikiquote.org
+2620:0:863:ed1a::1 ku.wikiquote.org
+2620:0:863:ed1a::1 kw.wikiquote.org
+2620:0:863:ed1a::1 ky.wikiquote.org
+2620:0:863:ed1a::1 la.wikiquote.org
+2620:0:863:ed1a::1 lb.wikiquote.org
+2620:0:863:ed1a::1 li.wikiquote.org
+2620:0:863:ed1a::1 lt.wikiquote.org
+2620:0:863:ed1a::1 ml.wikiquote.org
+2620:0:863:ed1a::1 mr.wikiquote.org
+2620:0:863:ed1a::1 na.wikiquote.org
+2620:0:863:ed1a::1 nds.wikiquote.org
+2620:0:863:ed1a::1 nl.wikiquote.org
+2620:0:863:ed1a::1 nn.wikiquote.org
+2620:0:863:ed1a::1 no.wikiquote.org
+2620:0:863:ed1a::1 pl.wikiquote.org
+2620:0:863:ed1a::1 pt.wikiquote.org
+2620:0:863:ed1a::1 qu.wikiquote.org
+2620:0:863:ed1a::1 ro.wikiquote.org
+2620:0:863:ed1a::1 ru.wikiquote.org
+2620:0:863:ed1a::1 simple.wikiquote.org
+2620:0:863:ed1a::1 sk.wikiquote.org
+2620:0:863:ed1a::1 sl.wikiquote.org
+2620:0:863:ed1a::1 sq.wikiquote.org
+2620:0:863:ed1a::1 sr.wikiquote.org
+2620:0:863:ed1a::1 su.wikiquote.org
+2620:0:863:ed1a::1 sv.wikiquote.org
+2620:0:863:ed1a::1 ta.wikiquote.org
+2620:0:863:ed1a::1 te.wikiquote.org
+2620:0:863:ed1a::1 th.wikiquote.org
+2620:0:863:ed1a::1 tk.wikiquote.org
+2620:0:863:ed1a::1 tr.wikiquote.org
+2620:0:863:ed1a::1 tt.wikiquote.org
+2620:0:863:ed1a::1 ug.wikiquote.org
+2620:0:863:ed1a::1 uk.wikiquote.org
+2620:0:863:ed1a::1 ur.wikiquote.org
+2620:0:863:ed1a::1 uz.wikiquote.org
+2620:0:863:ed1a::1 vi.wikiquote.org
+2620:0:863:ed1a::1 vo.wikiquote.org
+2620:0:863:ed1a::1 wo.wikiquote.org
+2620:0:863:ed1a::1 za.wikiquote.org
+2620:0:863:ed1a::1 zh.wikiquote.org
+2620:0:863:ed1a::1 zh-min-nan.wikiquote.org
+
+## WikiSource 维基文库
+2620:0:863:ed1a::1 wikisource.org
+2620:0:863:ed1a::1 www.wikisource.org
+2620:0:863:ed1a::1 ang.wikisource.org
+2620:0:863:ed1a::1 ar.wikisource.org
+2620:0:863:ed1a::1 az.wikisource.org
+2620:0:863:ed1a::1 bg.wikisource.org
+2620:0:863:ed1a::1 bn.wikisource.org
+2620:0:863:ed1a::1 br.wikisource.org
+2620:0:863:ed1a::1 bs.wikisource.org
+2620:0:863:ed1a::1 ca.wikisource.org
+2620:0:863:ed1a::1 cs.wikisource.org
+2620:0:863:ed1a::1 cy.wikisource.org
+2620:0:863:ed1a::1 da.wikisource.org
+2620:0:863:ed1a::1 de.wikisource.org
+2620:0:863:ed1a::1 el.wikisource.org
+2620:0:863:ed1a::1 en.wikisource.org
+2620:0:863:ed1a::1 eo.wikisource.org
+2620:0:863:ed1a::1 es.wikisource.org
+2620:0:863:ed1a::1 et.wikisource.org
+2620:0:863:ed1a::1 fa.wikisource.org
+2620:0:863:ed1a::1 fi.wikisource.org
+2620:0:863:ed1a::1 fo.wikisource.org
+2620:0:863:ed1a::1 fr.wikisource.org
+2620:0:863:ed1a::1 gl.wikisource.org
+2620:0:863:ed1a::1 he.wikisource.org
+2620:0:863:ed1a::1 hr.wikisource.org
+2620:0:863:ed1a::1 ht.wikisource.org
+2620:0:863:ed1a::1 hu.wikisource.org
+2620:0:863:ed1a::1 hy.wikisource.org
+2620:0:863:ed1a::1 id.wikisource.org
+2620:0:863:ed1a::1 is.wikisource.org
+2620:0:863:ed1a::1 it.wikisource.org
+2620:0:863:ed1a::1 ja.wikisource.org
+2620:0:863:ed1a::1 kn.wikisource.org
+2620:0:863:ed1a::1 ko.wikisource.org
+2620:0:863:ed1a::1 la.wikisource.org
+2620:0:863:ed1a::1 li.wikisource.org
+2620:0:863:ed1a::1 lt.wikisource.org
+2620:0:863:ed1a::1 mk.wikisource.org
+2620:0:863:ed1a::1 ml.wikisource.org
+2620:0:863:ed1a::1 nl.wikisource.org
+2620:0:863:ed1a::1 no.wikisource.org
+2620:0:863:ed1a::1 pl.wikisource.org
+2620:0:863:ed1a::1 pt.wikisource.org
+2620:0:863:ed1a::1 ro.wikisource.org
+2620:0:863:ed1a::1 ru.wikisource.org
+2620:0:863:ed1a::1 sa.wikisource.org
+2620:0:863:ed1a::1 sah.wikisource.org
+2620:0:863:ed1a::1 sk.wikisource.org
+2620:0:863:ed1a::1 sl.wikisource.org
+2620:0:863:ed1a::1 sr.wikisource.org
+2620:0:863:ed1a::1 sv.wikisource.org
+2620:0:863:ed1a::1 ta.wikisource.org
+2620:0:863:ed1a::1 te.wikisource.org
+2620:0:863:ed1a::1 th.wikisource.org
+2620:0:863:ed1a::1 tr.wikisource.org
+2620:0:863:ed1a::1 uk.wikisource.org
+2620:0:863:ed1a::1 vec.wikisource.org
+2620:0:863:ed1a::1 vi.wikisource.org
+2620:0:863:ed1a::1 yi.wikisource.org
+2620:0:863:ed1a::1 zh.wikisource.org
+2620:0:863:ed1a::1 zh-min-nan.wikisource.org
+
+## Wiktionary 维基词典
+2620:0:863:ed1a::1 wiktionary.org
+2620:0:863:ed1a::1 www.wiktionary.org
+2620:0:863:ed1a::1 aa.wiktionary.org
+2620:0:863:ed1a::1 ab.wiktionary.org
+2620:0:863:ed1a::1 af.wiktionary.org
+2620:0:863:ed1a::1 ak.wiktionary.org
+2620:0:863:ed1a::1 als.wiktionary.org
+2620:0:863:ed1a::1 am.wiktionary.org
+2620:0:863:ed1a::1 an.wiktionary.org
+2620:0:863:ed1a::1 ang.wiktionary.org
+2620:0:863:ed1a::1 ar.wiktionary.org
+2620:0:863:ed1a::1 as.wiktionary.org
+2620:0:863:ed1a::1 ast.wiktionary.org
+2620:0:863:ed1a::1 av.wiktionary.org
+2620:0:863:ed1a::1 ay.wiktionary.org
+2620:0:863:ed1a::1 az.wiktionary.org
+2620:0:863:ed1a::1 be.wiktionary.org
+2620:0:863:ed1a::1 bg.wiktionary.org
+2620:0:863:ed1a::1 bh.wiktionary.org
+2620:0:863:ed1a::1 bi.wiktionary.org
+2620:0:863:ed1a::1 bm.wiktionary.org
+2620:0:863:ed1a::1 bn.wiktionary.org
+2620:0:863:ed1a::1 bo.wiktionary.org
+2620:0:863:ed1a::1 br.wiktionary.org
+2620:0:863:ed1a::1 bs.wiktionary.org
+2620:0:863:ed1a::1 ca.wiktionary.org
+2620:0:863:ed1a::1 ch.wiktionary.org
+2620:0:863:ed1a::1 chr.wiktionary.org
+2620:0:863:ed1a::1 co.wiktionary.org
+2620:0:863:ed1a::1 cr.wiktionary.org
+2620:0:863:ed1a::1 cs.wiktionary.org
+2620:0:863:ed1a::1 csb.wiktionary.org
+2620:0:863:ed1a::1 cy.wiktionary.org
+2620:0:863:ed1a::1 da.wiktionary.org
+2620:0:863:ed1a::1 de.wiktionary.org
+2620:0:863:ed1a::1 dv.wiktionary.org
+2620:0:863:ed1a::1 dz.wiktionary.org
+2620:0:863:ed1a::1 el.wiktionary.org
+2620:0:863:ed1a::1 en.wiktionary.org
+2620:0:863:ed1a::1 eo.wiktionary.org
+2620:0:863:ed1a::1 es.wiktionary.org
+2620:0:863:ed1a::1 et.wiktionary.org
+2620:0:863:ed1a::1 eu.wiktionary.org
+2620:0:863:ed1a::1 fa.wiktionary.org
+2620:0:863:ed1a::1 fi.wiktionary.org
+2620:0:863:ed1a::1 fj.wiktionary.org
+2620:0:863:ed1a::1 fo.wiktionary.org
+2620:0:863:ed1a::1 fr.wiktionary.org
+2620:0:863:ed1a::1 fy.wiktionary.org
+2620:0:863:ed1a::1 ga.wiktionary.org
+2620:0:863:ed1a::1 gd.wiktionary.org
+2620:0:863:ed1a::1 gl.wiktionary.org
+2620:0:863:ed1a::1 gn.wiktionary.org
+2620:0:863:ed1a::1 gu.wiktionary.org
+2620:0:863:ed1a::1 gv.wiktionary.org
+2620:0:863:ed1a::1 ha.wiktionary.org
+2620:0:863:ed1a::1 he.wiktionary.org
+2620:0:863:ed1a::1 hi.wiktionary.org
+2620:0:863:ed1a::1 hr.wiktionary.org
+2620:0:863:ed1a::1 hsb.wiktionary.org
+2620:0:863:ed1a::1 hu.wiktionary.org
+2620:0:863:ed1a::1 hy.wiktionary.org
+2620:0:863:ed1a::1 ia.wiktionary.org
+2620:0:863:ed1a::1 id.wiktionary.org
+2620:0:863:ed1a::1 ie.wiktionary.org
+2620:0:863:ed1a::1 ik.wiktionary.org
+2620:0:863:ed1a::1 io.wiktionary.org
+2620:0:863:ed1a::1 is.wiktionary.org
+2620:0:863:ed1a::1 it.wiktionary.org
+2620:0:863:ed1a::1 iu.wiktionary.org
+2620:0:863:ed1a::1 ja.wiktionary.org
+2620:0:863:ed1a::1 jbo.wiktionary.org
+2620:0:863:ed1a::1 jv.wiktionary.org
+2620:0:863:ed1a::1 ka.wiktionary.org
+2620:0:863:ed1a::1 kk.wiktionary.org
+2620:0:863:ed1a::1 kl.wiktionary.org
+2620:0:863:ed1a::1 km.wiktionary.org
+2620:0:863:ed1a::1 kn.wiktionary.org
+2620:0:863:ed1a::1 ko.wiktionary.org
+2620:0:863:ed1a::1 ks.wiktionary.org
+2620:0:863:ed1a::1 ku.wiktionary.org
+2620:0:863:ed1a::1 kw.wiktionary.org
+2620:0:863:ed1a::1 ky.wiktionary.org
+2620:0:863:ed1a::1 la.wiktionary.org
+2620:0:863:ed1a::1 lb.wiktionary.org
+2620:0:863:ed1a::1 li.wiktionary.org
+2620:0:863:ed1a::1 ln.wiktionary.org
+2620:0:863:ed1a::1 lo.wiktionary.org
+2620:0:863:ed1a::1 lt.wiktionary.org
+2620:0:863:ed1a::1 lv.wiktionary.org
+2620:0:863:ed1a::1 mg.wiktionary.org
+2620:0:863:ed1a::1 mh.wiktionary.org
+2620:0:863:ed1a::1 mi.wiktionary.org
+2620:0:863:ed1a::1 mk.wiktionary.org
+2620:0:863:ed1a::1 ml.wiktionary.org
+2620:0:863:ed1a::1 mn.wiktionary.org
+2620:0:863:ed1a::1 mo.wiktionary.org
+2620:0:863:ed1a::1 mr.wiktionary.org
+2620:0:863:ed1a::1 ms.wiktionary.org
+2620:0:863:ed1a::1 mt.wiktionary.org
+2620:0:863:ed1a::1 my.wiktionary.org
+2620:0:863:ed1a::1 na.wiktionary.org
+2620:0:863:ed1a::1 nah.wiktionary.org
+2620:0:863:ed1a::1 nds.wiktionary.org
+2620:0:863:ed1a::1 ne.wiktionary.org
+2620:0:863:ed1a::1 nl.wiktionary.org
+2620:0:863:ed1a::1 nn.wiktionary.org
+2620:0:863:ed1a::1 no.wiktionary.org
+2620:0:863:ed1a::1 oc.wiktionary.org
+2620:0:863:ed1a::1 om.wiktionary.org
+2620:0:863:ed1a::1 or.wiktionary.org
+2620:0:863:ed1a::1 pa.wiktionary.org
+2620:0:863:ed1a::1 pi.wiktionary.org
+2620:0:863:ed1a::1 pl.wiktionary.org
+2620:0:863:ed1a::1 ps.wiktionary.org
+2620:0:863:ed1a::1 pt.wiktionary.org
+2620:0:863:ed1a::1 qu.wiktionary.org
+2620:0:863:ed1a::1 rm.wiktionary.org
+2620:0:863:ed1a::1 rn.wiktionary.org
+2620:0:863:ed1a::1 ro.wiktionary.org
+2620:0:863:ed1a::1 roa-rup.wiktionary.org
+2620:0:863:ed1a::1 ru.wiktionary.org
+2620:0:863:ed1a::1 rw.wiktionary.org
+2620:0:863:ed1a::1 sa.wiktionary.org
+2620:0:863:ed1a::1 sc.wiktionary.org
+2620:0:863:ed1a::1 scn.wiktionary.org
+2620:0:863:ed1a::1 sd.wiktionary.org
+2620:0:863:ed1a::1 sg.wiktionary.org
+2620:0:863:ed1a::1 sh.wiktionary.org
+2620:0:863:ed1a::1 si.wiktionary.org
+2620:0:863:ed1a::1 simple.wiktionary.org
+2620:0:863:ed1a::1 sk.wiktionary.org
+2620:0:863:ed1a::1 sl.wiktionary.org
+2620:0:863:ed1a::1 sm.wiktionary.org
+2620:0:863:ed1a::1 sn.wiktionary.org
+2620:0:863:ed1a::1 so.wiktionary.org
+2620:0:863:ed1a::1 sq.wiktionary.org
+2620:0:863:ed1a::1 sr.wiktionary.org
+2620:0:863:ed1a::1 ss.wiktionary.org
+2620:0:863:ed1a::1 st.wiktionary.org
+2620:0:863:ed1a::1 su.wiktionary.org
+2620:0:863:ed1a::1 sv.wiktionary.org
+2620:0:863:ed1a::1 sw.wiktionary.org
+2620:0:863:ed1a::1 ta.wiktionary.org
+2620:0:863:ed1a::1 te.wiktionary.org
+2620:0:863:ed1a::1 tg.wiktionary.org
+2620:0:863:ed1a::1 th.wiktionary.org
+2620:0:863:ed1a::1 ti.wiktionary.org
+2620:0:863:ed1a::1 tk.wiktionary.org
+2620:0:863:ed1a::1 tl.wiktionary.org
+2620:0:863:ed1a::1 tn.wiktionary.org
+2620:0:863:ed1a::1 to.wiktionary.org
+2620:0:863:ed1a::1 tpi.wiktionary.org
+2620:0:863:ed1a::1 tr.wiktionary.org
+2620:0:863:ed1a::1 ts.wiktionary.org
+2620:0:863:ed1a::1 tt.wiktionary.org
+2620:0:863:ed1a::1 tw.wiktionary.org
+2620:0:863:ed1a::1 ug.wiktionary.org
+2620:0:863:ed1a::1 uk.wiktionary.org
+2620:0:863:ed1a::1 ur.wiktionary.org
+2620:0:863:ed1a::1 uz.wiktionary.org
+2620:0:863:ed1a::1 vi.wiktionary.org
+2620:0:863:ed1a::1 vo.wiktionary.org
+2620:0:863:ed1a::1 wa.wiktionary.org
+2620:0:863:ed1a::1 wo.wiktionary.org
+2620:0:863:ed1a::1 xh.wiktionary.org
+2620:0:863:ed1a::1 yi.wiktionary.org
+2620:0:863:ed1a::1 yo.wiktionary.org
+2620:0:863:ed1a::1 za.wiktionary.org
+2620:0:863:ed1a::1 zh.wiktionary.org
+2620:0:863:ed1a::1 zh-min-nan.wiktionary.org
+2620:0:863:ed1a::1 zu.wiktionary.org
+
+## Wikiversity 维基学院
+2620:0:863:ed1a::1 wikiversity.org
+2620:0:863:ed1a::1 www.wikiversity.org
+2620:0:863:ed1a::1 ar.wikiversity.org
+2620:0:863:ed1a::1 beta.wikiversity.org
+2620:0:863:ed1a::1 cs.wikiversity.org
+2620:0:863:ed1a::1 de.wikiversity.org
+2620:0:863:ed1a::1 el.wikiversity.org
+2620:0:863:ed1a::1 en.wikiversity.org
+2620:0:863:ed1a::1 es.wikiversity.org
+2620:0:863:ed1a::1 fi.wikiversity.org
+2620:0:863:ed1a::1 fr.wikiversity.org
+2620:0:863:ed1a::1 it.wikiversity.org
+2620:0:863:ed1a::1 ja.wikiversity.org
+2620:0:863:ed1a::1 pt.wikiversity.org
+2620:0:863:ed1a::1 ru.wikiversity.org
+2620:0:863:ed1a::1 sv.wikiversity.org
+
+## Apple 苹果
+2001:4de0:4008:18b::1aca www.apple.com #www.isg-apple.com.akadns.net
+
+## Blizzard Entertainment 暴雪娱乐
+2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
+
+## Gravatar
+#2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a s.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a 2.gravatar.com #cs91.wac.edgecastcdn.net
+
+## Plurk
+#2607:f128:47::1:1 plurk.com
+#2607:f128:47::1:1 www.plurk.com
+#2607:f128:47::1:1 ipv6.plurk.com
+
+## 其他IPv6网站
+## US 美国
+## Mozilla
+2400:cb00:2048:1::6810:2802 www.mozilla.org #www.mozilla.org.cdn.cloudflare.net
+#2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8020:5::2:132 addons.mozilla.org #addons.dynect.mozilla.net
+#2620:101:8008:5::2:6 blog.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:9 bugzilla.mozilla.org #bugzilla.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 dnt.mozilla.org #static.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 firefoxflicks.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 hacks.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 nightly.mozilla.org #static.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 pastebin.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 planet.mozilla.org #static.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 quality.mozilla.org
+#2620:101:8008:5::2:8 releases.mozilla.org #static-non-ssl.zlb.phx.mozilla.net
+#2620:101:8008:5::2:3 support.mozilla.org #sumo.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 tbpl.mozilla.org #static-redirect.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 wiki.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
+#2620:101:8008:5::2:8 www.firefox.com #firefox.com
+#2620:101:8008:5::2:8 firefox.com
+
+## Microsoft 微软
+2001:4de0:4008:191::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2600:1406:28:29b::29df i.microsoft.com
+2600:1406:28:29b::29df i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:1406:28:29b::29df i3.microsoft.com #i.microsoft.com.edgekey.net
+2620:10e:6000:4::c71a:fed8 i4.microsoft.com #i.toggle.www.ms.akadns.net
+2002:836b:9820::836b:9886 www.ipv6.microsoft.com
+2600:1406:28:28c::e59 download.microsoft.com
+#204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
+#134.170.120.48 skyapi.onedrive.live.com
+#204.79.197.217 skyweb.skyprod.akadns.net
+#204.79.197.217 webedgegeo.skyprod.akadns.net
+2600:1406:28:296::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2600:1406:28:296::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+#2a01:111:2003::200 www.bing.com
+#2a01:111:2003::200 cn.bing.com
+#2a01:111:2003::200 ssl.bing.com
+#2a01:111:2003::200 global.bing.com
+#2a01:111:2003::200 api.bing.com
+#2a01:111:2003::200 bj1.api.bing.com
+#2a01:111:2003::200 tse1.mm.bing.net
+#2a01:111:2003::200 tse2.mm.bing.net
+#2a01:111:2003::200 tse3.mm.bing.net
+#2a01:111:2003::200 tse4.mm.bing.net
+#2a01:111:2003::200 tse1-mm.cn.bing.net
+#2a01:111:2003::200 tse2-mm.cn.bing.net
+#2a01:111:2003::200 tse3-mm.cn.bing.net
+#2a01:111:2003::200 tse4-mm.cn.bing.net
+#2600:1417:9::b833:f5b a248.e.akamai.net
+
+## ARIN
+2001:500:4:c000::43 www.arin.net
+2001:500:13::46 whois.arin.net
+
+## Yahoo!
+2001:4998:c:a06::2:4008 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
+2001:4998:44:1801::3000 news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+#2406:2000:f016:1fe::3001 hk.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2001:4998:28:800::4000 dstest.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2001:4998:28:800::4000 dstest2.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2001:4998:28:800::4000 dstest3.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+#2406:2000:f016:1fe::3000 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+#2406:2000:f016:1fe::3001 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2001:4998:28:800::4001 l.yimg.com #l.gycs.b.yahoodns.net
+2001:4998:28:800::4001 l1.yimg.com #l.gycs.b.yahoodns.net
+2001:4998:28:800::4001 l2.yimg.com #any-l.aycs.b.yahoodns.net
+2001:4998:28:800::4001 l3.yimg.com #any-l.aycs.b.yahoodns.net
+2001:4998:44:6000::1000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
+
+## Uncyclopedia
+2400:cb00:2048:1::681c:1a21 uncyclopedia.hk
+2400:cb00:2048:1::681c:1a09 uncyclopedia.info
+2400:cb00:2048:1::681c:1a09 www.uncyclopedia.info
+2400:cb00:2048:1::681c:1204 uncyclopedia.tw
+2400:cb00:2048:1::681c:a56 uncyclomedia.org
+2400:cb00:2048:1::681c:a56 meta.uncyclomedia.org
+2400:cb00:2048:1::681c:193a images.uncyc.org
+2400:cb00:2048:1::681c:193a static.uncyc.org
+2400:cb00:2048:1::681c:1109 ansaikuropedia.org
+
+## Vine
+#2606:1f80:a000:100::4 edge.vncdn.co
+2606:2800:21f:20ba:47b:25fd:1603:2e7 mid.vncdn.co
+#2606:1f80:a000:100::5 v.cdn.vine.co
+#2606:1f80:a000:100::5 mtc.cdn.vine.co
+
+## Imgur
+#2a04:4e42::193 imgur.com
+#2a04:4e42::193 www.imgur.com
+#2a04:4e42::193 s.imgur.com
+#2a04:4e42::193 i.imgur.com
+#2a04:4e42::193 m.imgur.com
+#2a04:4e42::193 p.imgur.com
+#2a04:4e42::193 api.imgur.com
+
+## Steam
+#2600:1406:3:18b::3a7 api.steampowered.com
+#2600:1406:3:18b::3a7 support.steampowered.com
+#2600:1417:9::b833:f5b repo.steampowered.com
+#2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
+#2600:1417:9::b833:f5b store.akamai.steamstatic.com
+#2600:1417:9::b833:f5b cdn.store.steampowered.com
+#2600:1417:9::b833:f5b cdn.steampowered.com
+#2600:1417:9::b833:f5b media.steampowered.com
+#2600:1417:9::b833:f5b media4.steampowered.com
+#2600:1417:9::b833:f5b content8.steampowered.com
+#2600:1417:9::b833:f5b cloud-3.steampowered.com
+#2600:1417:9::b833:f5b cloud-3.steamusercontent.com
+#2600:1417:9::b833:f5b images.akamai.steamusercontent.com
+#2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
+#2600:1417:9::b833:f5b steamstore-a.akamaihd.net
+#2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
+#2600:1417:9::b833:f5b cdn.steamcommunity.com
+#2600:1417:9::b833:f5b store.valvesoftware.com
+
+## NVIDIA
+#2600:1406:3:18b::376 www.nvidia.com
+#2600:1406:3:18b::376 arg.nvidia.com
+#2600:1406:3:18b::376 blogs.nvidia.com
+#2600:1406:3:18b::376 br.nvidia.com
+#2600:1406:3:18b::376 chl.nvidia.com
+#2600:1406:3:18b::376 clm.nvidia.com
+#2600:1406:3:18b::376 research.nvidia.com
+#2600:1406:3:18b::376 ven.nvidia.com
+#2600:1406:3:18b::a90 images.nvidia.com
+#2600:1406:3:18b::a90 developer.nvidia.com
+#2600:1406:3:18b::778 www.nvidia.cn
+#2600:1406:3:18b::c8c blogs.nvidia.cn
+#2600:1417:9::b833:f5b cn.nvidia.com
+#2600:1406:3:18b::778 contests.nvidia.com
+#2600:1406:3:18b::778 services.gfe.nvidia.com
+#2600:1406:3:18b::a91 download-cdn.gfe.nvidia.com
+#2600:1406:3:18b::778 shield.nvidia.com
+#2600:1417:9::b833:f5b cn.download.nvidia.com
+#2600:1417:9::b833:f5b us.download.nvidia.com
+#2600:1417:9::b833:f5b international.download.nvidia.com
+#2600:1417:9::b833:f5b international-gfe.download.nvidia.com
+#2600:1406:3:18b::7b4 www.geforce.com
+#2600:1406:3:18b::7b4 gfwsl.geforce.com
+#2600:1417:9::b833:f5b www.geforce.cn
+#2600:1406:3:18b::c8c nfans.geforce.cn
+#2600:1417:9::b833:f5b www.tegrazone.com
+
+## AMD
+#2600:1406:3:18b::b51 www.amd.com
+2001:4de0:4008:190::2c4b community.amd.com
+#2600:1417:9::b833:f5b ir.amd.com
+#2600:1417:9::b833:f5b shop.amd.com
+#2600:1406:3:18b::b51 support.amd.com
+#2600:1406:3:18b::1c7b www2.ati.com
+
+## Intel
+#2600:1417:9::b833:f5b www.intel.cn
+#2600:1417:9::b833:f5b www.intel.com
+#2600:1417:9::b833:f5b ark.intel.com
+#2600:1417:9::b833:f5b corpredirect.intel.com
+#2600:1417:9::b833:f5b pcdoeswhat.intel.cn
+#2600:1406:3:18b::75 newsroom.intel.cn
+#2600:1406:3:18b::b www-ssl.intel.com
+#2600:1406:3:18b::b communities.intel.com
+#2600:1406:3:18b::b downloadcenter.intel.com
+#2600:1406:3:18b::b downloadmirror.intel.com
+#2600:1406:3:18b::b engage.intel.com
+#2600:1406:3:18b::b iq.intel.com
+#2600:1406:3:18b::b newsroom.intel.com
+#2600:1406:3:18b::b software.intel.com
+#2600:1406:3:18b::ae6 embedded.communities.intel.com
+
+## AT 奥地利
+## Tor Project
+2620::6b0:b:1a1a:0:26e5:4810 torproject.org
+2620::6b0:b:1a1a:0:26e5:4810 www.torproject.org
+2620::6b0:b:1a1a:0:26e5:4810 deb.torproject.org #www.torproject.org
+2a01:4f8:172:39ca::dad3:3:1 trac.torproject.org #troodi.torproject.org
+2001:41b8:202:deb:213:21ff:fe20:1426 cloud.torproject.org #www.torproject.org
+2001:41b8:202:deb:213:21ff:fe20:1426 atlas.torproject.org #www.torproject.org
+2a01:4f8:172:1b46::abba:14:1 svn.torproject.org #gayi.torproject.org
+
+## AU 澳大利亚
+## APNIC
+2400:cb00:2048:1::6814:3bc2 www.apnic.net
+2001:dd8:9:2::101:34 wq.apnic.net
+2001:dc0:2001:11::205 submit.apnic.net
+
+## FR 法国
+2a01:e0d:1:3:58bf:fa02:c0de:5 videolan.org
+2a01:e0d:1:3:58bf:fa02:c0de:5 www.videolan.org #ganesh.videolan.org
+
+## JP 日本
+## JAIST 北陸先端科学技術大学院大学
+2001:df0:2ed:feed::feed ftp.jaist.ac.jp
+2001:df0:2ed:feed::feed jaist.dl.sourceforge.net
+
+## NL 荷兰
+## Ubuntu Archive
+2001:7b8:3:37::21:3 ipv6.torrent.ubuntu.com #ubuntuv6tracker.bit.nl
+2001:7b8:3:37::21:3 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
+
+## PA 巴拿马
+2400:cb00:2048:1::681b:d51e bitsnoop.com
+
+## IPv6/IPv4 转换代理
+## DNS64 服务器：
+#2001:778::37 dns64.litnet.lt
+
+## Dropbox
+#108.160.173.207 www.dropbox.com #www.v.dropbox.com
+#108.160.173.207 www.v.dropbox.com
+#108.160.172.232 dropbox.com
+#108.160.172.193 d.dropbox.com #d.v.dropbox.com
+#108.160.172.193 d.v.dropbox.com
+#108.160.172.200 m.dropbox.com
+#108.160.173.6 dl.dropbox.com #block-misc-iad.v.dropbox.com
+#199.47.217.69 dl.dropboxusercontent.com #block-www.v.dropbox.com
+#54.182.3.132 cf.dropboxstatic.com
+#108.160.172.239 photos.dropbox.com
+#52.7.223.64 photos-thumb.x.dropbox.com
+#52.7.223.64 photos-1.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-2.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-3.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-4.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-5.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-6.dropbox.com #photos-thumb.x.dropbox.com
+#54.182.2.132 status.dropbox.com
+#54.182.3.124 forums.dropbox.com
+#54.182.4.176 marketing.dropbox.com
+
+## DuckDuckGo
+#46.51.216.186 duckduckgo.com
+#54.251.178.52 icons.duckduckgo.com
+
+## EMI Music Publishing
+#72.21.81.253 mpod.emimusicpub.com #ne.edgecastcdn.net
+#117.18.239.137 mpod1.emimusicpub.com #flash.edgecastcdn.net
+
+## Flickr
+#2406:2000:108:2::1000 flickr.com
+2001:4998:28:800::4000 www.flickr.com
+2001:4998:28:800::4000 up.flickr.com
+2001:4998:28:800::4001 api.flickr.com
+#2406:2000:108:2::1000 secure.flickr.com
+2001:4998:28:800::4001 m.flickr.com
+#2406:2000:108:2::1000 heartbeat.flickr.com
+#192.0.79.32 code.flickr.com
+2001:4998:18:800::4006 c.staticflickr.com
+2001:4998:18:800::4006 c1.staticflickr.com
+2001:4998:18:800::4006 c2.staticflickr.com
+2001:4998:18:800::4006 c3.staticflickr.com
+2001:4998:18:800::4006 c4.staticflickr.com
+2001:4998:18:800::4006 c5.staticflickr.com
+2001:4998:18:800::4006 c6.staticflickr.com
+2001:4998:18:800::4006 c7.staticflickr.com
+2001:4998:18:800::4006 c8.staticflickr.com
+#2406:2000:fc:402::c:2207 c9.staticflickr.com
+2001:4998:28:800::4000 s.yimg.com #s.gycs.b.yahoodns.net
+
+## Geeksforgeeks
+#54.239.130.34 d2dskowxfbo68o.cloudfront.net
+
+## GitHub
+#192.30.253.112 github.com
+#192.30.253.112 www.github.com #github.com
+#192.30.253.117 api.github.com
+#192.30.253.125 live.github.com
+#2a04:4e42::133 assets-cdn.github.com #github.map.fastly.net
+#2a04:4e42::133 collector-cdn.github.com #github.map.fastly.net
+#2a04:4e42::133 pages.github.com #github.map.fastly.net
+#2a04:4e42::133 help.github.com #github.map.fastly.net
+#54.84.118.98 collector.githubapp.com
+#2a04:4e42::133 avatars0.githubusercontent.com #github.map.fastly.net
+#2a04:4e42::133 avatars1.githubusercontent.com #github.map.fastly.net
+#2a04:4e42::133 avatars2.githubusercontent.com #github.map.fastly.net
+#2a04:4e42::133 avatars3.githubusercontent.com #github.map.fastly.net
+#2a04:4e42::133 cloud.githubusercontent.com #github.map.fastly.net
+#2a04:4e42::133 camo.githubusercontent.com #github.map.fastly.net
+#2a04:4e42::133 raw.githubusercontent.com #github.map.fastly.net
+#2a04:4e42::133 gist.githubusercontent.com #github.map.fastly.net
+#192.30.253.118 gist.github.com
+
+## SoundCloud
+#68.232.44.127 api.soundcloud.com #cs97.wac.edgecastcdn.net
+#68.232.44.127 api-mobile.soundcloud.com #cs97.wac.edgecastcdn.net
+#68.232.44.127 api-v2.soundcloud.com #cs97.wac.edgecastcdn.net
+#68.232.44.127 promoted.soundcloud.com #cs97.wac.edgecastcdn.net
+#68.232.44.96 a-v2.sndcdn.com #cs70.wac.edgecastcdn.net
+#68.232.44.96 a1.sndcdn.com #cs70.wac.edgecastcdn.net
+#54.230.232.233 cf-media.sndcdn.com #d3mym4xnhdwip8.cloudfront.net
+#54.192.71.189 i1.sndcdn.com #img.x.soundcloud.com
+#54.192.71.189 i2.sndcdn.com #d5i8tm59lw6in.cloudfront.net
+#54.192.71.189 i3.sndcdn.com #d5i8tm59lw6in.cloudfront.net
+#54.192.71.189 i4.sndcdn.com #d5i8tm59lw6in.cloudfront.net
+#68.232.44.96 va.sndcdn.com #cs70.wac.edgecastcdn.net
+#54.230.68.42 wis.sndcdn.com #dq19j1toufa91.cloudfront.net
+#68.232.45.67 ec-media.soundcloud.com #cs141.wpc.edgecastcdn.net
+#68.232.46.220 ec-rtmp-media.soundcloud.com #fms.658d.edgecastcdn.net
+#54.171.137.74 eventlogger.soundcloud.com #eventgateway.soundcloud.com
+#52.17.240.17 eventgateway.soundcloud.com #eventgateway-production-2-1558049626.eu-west-1.elb.amazonaws.com
+#111.119.3.1 soundcloud.hs.llnwd.net
+
+## Squarespace
+#192.229.145.102 static.squarespace.com #cs301.wpc.taucdn.net
+
+## StackExchange/StackOverflow
+#2a04:4e42::325 stackoverflow.com
+#2a04:4e42::325 blog.stackoverflow.com
+#2a04:4e42::325 es.stackoverflow.com
+#2a04:4e42::325 ja.stackoverflow.com
+#2a04:4e42::325 pt.stackoverflow.com
+#2a04:4e42::325 ru.stackoverflow.com
+#2a04:4e42::325 stackexchange.com
+#2a04:4e42::325 academia.stackexchange.com
+#2a04:4e42::325 android.stackexchange.com
+#2a04:4e42::325 anime.stackexchange.com
+#2a04:4e42::325 apple.stackexchange.com
+#2a04:4e42::325 arduino.stackexchange.com
+#2a04:4e42::325 area51.stackexchange.com
+#2a04:4e42::325 astronomy.stackexchange.com
+#2a04:4e42::325 aviation.stackexchange.com
+#2a04:4e42::325 beer.stackexchange.com
+#2a04:4e42::325 bicycles.stackexchange.com
+#2a04:4e42::325 biology.stackexchange.com
+#2a04:4e42::325 bitcoin.stackexchange.com
+#2a04:4e42::325 blender.stackexchange.com
+#2a04:4e42::325 boardgames.stackexchange.com
+#2a04:4e42::325 bricks.stackexchange.com
+#2a04:4e42::325 buddhism.stackexchange.com
+#2a04:4e42::325 chemistry.stackexchange.com
+#2a04:4e42::325 chess.stackexchange.com
+#2a04:4e42::325 chinese.stackexchange.com
+#2a04:4e42::325 christianity.stackexchange.com
+#2a04:4e42::325 civicrm.stackexchange.com
+#2a04:4e42::325 codegolf.stackexchange.com
+#2a04:4e42::325 codereview.stackexchange.com
+#2a04:4e42::325 coffee.stackexchange.com
+#2a04:4e42::325 cogsci.stackexchange.com
+#2a04:4e42::325 communitybuilding.stackexchange.com
+#2a04:4e42::325 computergraphics.stackexchange.com
+#2a04:4e42::325 cooking.stackexchange.com
+#2a04:4e42::325 craftcms.stackexchange.com
+#2a04:4e42::325 crypto.stackexchange.com
+#2a04:4e42::325 cs.stackexchange.com
+#2a04:4e42::325 cstheory.stackexchange.com
+#2a04:4e42::325 datascience.stackexchange.com
+#2a04:4e42::325 dba.stackexchange.com
+#2a04:4e42::325 diy.stackexchange.com
+#2a04:4e42::325 drupal.stackexchange.com
+#2a04:4e42::325 dsp.stackexchange.com
+#2a04:4e42::325 earthscience.stackexchange.com
+#2a04:4e42::325 ebooks.stackexchange.com
+#2a04:4e42::325 economics.stackexchange.com
+#2a04:4e42::325 electronics.stackexchange.com
+#2a04:4e42::325 elementaryos.stackexchange.com
+#2a04:4e42::325 ell.stackexchange.com
+#2a04:4e42::325 emacs.stackexchange.com
+#2a04:4e42::325 engineering.stackexchange.com
+#2a04:4e42::325 english.stackexchange.com
+#2a04:4e42::325 expatriates.stackexchange.com
+#2a04:4e42::325 expressionengine.stackexchange.com
+#2a04:4e42::325 fitness.stackexchange.com
+#2a04:4e42::325 freelancing.stackexchange.com
+#2a04:4e42::325 french.stackexchange.com
+#2a04:4e42::325 gamedev.stackexchange.com
+#2a04:4e42::325 gaming.stackexchange.com
+#2a04:4e42::325 gardening.stackexchange.com
+#2a04:4e42::325 genealogy.stackexchange.com
+#2a04:4e42::325 german.stackexchange.com
+#2a04:4e42::325 gis.stackexchange.com
+#2a04:4e42::325 graphicdesign.stackexchange.com
+#2a04:4e42::325 ham.stackexchange.com
+#2a04:4e42::325 hardwarerecs.stackexchange.com
+#2a04:4e42::325 health.stackexchange.com
+#2a04:4e42::325 hermeneutics.stackexchange.com
+#2a04:4e42::325 hinduism.stackexchange.com
+#2a04:4e42::325 history.stackexchange.com
+#2a04:4e42::325 homebrew.stackexchange.com
+#2a04:4e42::325 hsm.stackexchange.com
+#2a04:4e42::325 islam.stackexchange.com
+#2a04:4e42::325 italian.stackexchange.com
+#2a04:4e42::325 japanese.stackexchange.com
+#2a04:4e42::325 joomla.stackexchange.com
+#2a04:4e42::325 judaism.stackexchange.com
+#2a04:4e42::325 law.stackexchange.com
+#2a04:4e42::325 lifehacks.stackexchange.com
+#2a04:4e42::325 linguistics.stackexchange.com
+#2a04:4e42::325 magento.stackexchange.com
+#2a04:4e42::325 martialarts.stackexchange.com
+#2a04:4e42::325 math.stackexchange.com
+#2a04:4e42::325 matheducators.stackexchange.com
+#2a04:4e42::325 mathematica.stackexchange.com
+#2a04:4e42::325 mechanics.stackexchange.com
+#2a04:4e42::325 meta.stackexchange.com
+#2a04:4e42::325 meta.academia.stackexchange.com
+#2a04:4e42::325 money.stackexchange.com
+#2a04:4e42::325 movies.stackexchange.com
+#2a04:4e42::325 music.stackexchange.com
+#2a04:4e42::325 musicfans.stackexchange.com
+#2a04:4e42::325 mythology.stackexchange.com
+#2a04:4e42::325 networkengineering.stackexchange.com
+#2a04:4e42::325 opendata.stackexchange.com
+#2a04:4e42::325 opensource.stackexchange.com
+#2a04:4e42::325 outdoors.stackexchange.com
+#2a04:4e42::325 parenting.stackexchange.com
+#2a04:4e42::325 patents.stackexchange.com
+#2a04:4e42::325 pets.stackexchange.com
+#2a04:4e42::325 philosophy.stackexchange.com
+#2a04:4e42::325 photo.stackexchange.com
+#2a04:4e42::325 physics.stackexchange.com
+#2a04:4e42::325 pm.stackexchange.com
+#2a04:4e42::325 poker.stackexchange.com
+#2a04:4e42::325 politics.stackexchange.com
+#2a04:4e42::325 portuguese.stackexchange.com
+#2a04:4e42::325 productivity.stackexchange.com
+#2a04:4e42::325 programmers.stackexchange.com
+#2a04:4e42::325 puzzling.stackexchange.com
+#2a04:4e42::325 quant.stackexchange.com
+#2a04:4e42::325 raspberrypi.stackexchange.com
+#2a04:4e42::325 reverseengineering.stackexchange.com
+#2a04:4e42::325 robotics.stackexchange.com
+#2a04:4e42::325 rpg.stackexchange.com
+#2a04:4e42::325 rus.stackexchange.com
+#2a04:4e42::325 russian.stackexchange.com
+#2a04:4e42::325 salesforce.stackexchange.com
+#2a04:4e42::325 scicomp.stackexchange.com
+#2a04:4e42::325 scifi.stackexchange.com
+#2a04:4e42::325 security.stackexchange.com
+#2a04:4e42::325 sharepoint.stackexchange.com
+#2a04:4e42::325 skeptics.stackexchange.com
+#2a04:4e42::325 softwarerecs.stackexchange.com
+#2a04:4e42::325 sound.stackexchange.com
+#2a04:4e42::325 space.stackexchange.com
+#2a04:4e42::325 spanish.stackexchange.com
+#2a04:4e42::325 sports.stackexchange.com
+#2a04:4e42::325 sqa.stackexchange.com
+#2a04:4e42::325 startups.stackexchange.com
+#2a04:4e42::325 stats.stackexchange.com
+#2a04:4e42::325 sustainability.stackexchange.com
+#2a04:4e42::325 tex.stackexchange.com
+#2a04:4e42::325 tor.stackexchange.com
+#2a04:4e42::325 travel.stackexchange.com
+#2a04:4e42::325 tridion.stackexchange.com
+#2a04:4e42::325 unix.stackexchange.com
+#2a04:4e42::325 ux.stackexchange.com
+#2a04:4e42::325 vi.stackexchange.com
+#2a04:4e42::325 video.stackexchange.com
+#2a04:4e42::325 webapps.stackexchange.com
+#2a04:4e42::325 webmasters.stackexchange.com
+#2a04:4e42::325 windowsphone.stackexchange.com
+#2a04:4e42::325 woodworking.stackexchange.com
+#2a04:4e42::325 wordpress.stackexchange.com
+#2a04:4e42::325 workplace.stackexchange.com
+#2a04:4e42::325 worldbuilding.stackexchange.com
+#2a04:4e42::325 writers.stackexchange.com
+#2a04:4e42::325 sstatic.net
+#2a04:4e42::325 cdn.sstatic.net
+#2a04:4e42::325 cdn-careers.sstatic.net
+#2a04:4e42::325 cdn-chat.sstatic.net
+#2a04:4e42::325 cdn-prom.sstatic.net
+#2a04:4e42::325 stackapps.com
+#2a04:4e42::325 superuser.com
+#2a04:4e42::325 askubuntu.com
+#2a04:4e42::325 serverfault.com
+#2a04:4e42::325 mathoverflow.net
+2400:cb00:2048:1::6818:1241 mathjax.org
+2400:cb00:2048:1::6818:1241 www.mathjax.org
+2400:cb00:2048:1::6818:1241 beta.mathjax.org
+2400:cb00:2048:1::6818:1241 cdn.mathjax.org
+#2400:cb00:2048:1::6810:7012 i.stack.imgur.com
+#2406:da00:ff00::1715:538b s.stack.imgur.com
+#2406:da00:ff00::1715:538b stack.imgur.com
+
+## PasteBin
+#2400:cb00:2048:1::6814:4038 pastebin.com
+
+## Tumblr
+#2606:2800:220:134c:57:10da:1a6d:24ed gs1.wac.edgecastcdn.net
+
+## TweetDeck
+#104.244.42.4 tweetdeck.com
+#104.244.42.4 api.tweetdeck.com
+#104.244.42.4 downloads.tweetdeck.com
+#104.244.42.4 web.tweetdeck.com
+#104.244.42.4 www.tweetdeck.com
+
+## Twitter
+#104.244.42.65 twitter.com
+#104.244.42.65 about.twitter.com
+#104.244.42.65 ads.twitter.com
+#104.244.42.65 api.twitter.com
+#104.244.42.65 blog.twitter.com
+#104.244.42.65 business.twitter.com
+#104.244.42.65 dev.twitter.com
+#104.244.42.65 media.twitter.com
+#104.244.42.65 mobile.twitter.com
+#104.244.42.65 pic.twitter.com
+#104.244.42.65 s.twitter.com
+2606:2800:220:18bf:6c7:9b1:1836:15fb status.twitter.com #cs322.wac.edgecastcdn.net
+#104.244.42.65 support.twitter.com
+#104.244.42.65 www.twitter.com
+#104.244.42.133 t.co
+#2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com #cs472.wac.edgecastcdn.net
+2606:2800:220:de:468:2285:c1:4a3 platform.twitter.com #cs41.wac.edgecastcdn.net
+2606:2800:220:1410:489:141e:20bb:12f6 abs.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 abs-0.twimg.com #ipv6.twimg.com
+2606:2800:220:1410:489:141e:20bb:12f6 pbs.twimg.com #ipv6.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
+#2606:1f80:a000:100::2 a0.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 a1.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 a2.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 a3.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 a4.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 a5.twimg.com #ipv6.twimg.com
+#199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
+#2606:1f80:a000:100::2 amp.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 dnt.twimg.com #ipv6.twimg.com
+2606:2800:220:1410:489:141e:20bb:12f6 ea.twimg.com #ipv6.twimg.com
+2606:2800:220:853:175d:1e76:2377:224f g.twimg.com #ipv6.twimg.com
+2606:2800:220:18bf:6c7:9b1:1836:15fb g2.twimg.com #ipv6.twimg.com
+2606:2800:248:163:1dd5:2187:1354:23ef gu.twimg.com #ipv6.twimg.com
+2606:2800:220:1410:489:141e:20bb:12f6 hca.twimg.com #ipv6.twimg.com
+2606:2800:220:1410:489:141e:20bb:12f6 jp.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 ma.twimg.com #ipv6.twimg.com
+2606:2800:220:1410:489:141e:20bb:12f6 o.twimg.com #ipv6.twimg.com
+2606:2800:220:1ead:1a38:1bef:134c:172c oem.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 p.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si0.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si1.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si2.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si3.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si4.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si5.twimg.com #ipv6.twimg.com
+2606:2800:220:1410:489:141e:20bb:12f6 ton.twimg.com #ipv6.twimg.com
+2606:2800:21f:dc2:1fe1:23fc:954:1461 video.twimg.com #ipv6.twimg.com
+2606:2800:220:18bf:6c7:9b1:1836:15fb tailfeather.twimg.com #cs322.wac.edgecastcdn.net
+2606:2800:220:1ead:1a38:1bef:134c:172c widgets.twimg.com #cs479.wac.edgecastcdn.net
+#210.163.219.24 twimg.com
+2606:1f80:a000:102::2 ipv6.twimg.com
+
+## We Heart It
+#117.18.237.125 assets1.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 assets2.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 assets3.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 data1.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 data2.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 data3.whicdn.com #cs95.wac.edgecastcdn.net
+2400:cb00:2048:1::6810:a30d cdn.viglink.com #dp2drdtly304p.cloudfront.net
+
+## Wordpress
+#192.0.78.9 wordpress.com
+#192.0.78.13 www.wordpress.com #lb.wordpress.com
+#192.0.78.13 zh-cn.wordpress.com #lb.wordpress.com
+#192.0.78.12 lb.wordpress.com
+#76.74.254.122 files.wordpress.com
+#192.0.76.3 pixel.wp.com
+#192.0.76.3 stats.wp.com
+#2606:2800:20d:559:1b1e:a49:202a:14b5 s0.wp.com #cs82.wac.edgecastcdn.net
+#2606:2800:20d:559:1b1e:a49:202a:14b5 s1.wp.com #cs82.wac.edgecastcdn.net
+#2606:2800:20d:559:1b1e:a49:202a:14b5 s2.wp.com #cs82.wac.edgecastcdn.net
+#2606:2800:20d:559:1b1e:a49:202a:14b5 widgets.wp.com #cs82.wac.edgecastcdn.net
+#66.155.40.250 wordpress.org
+#66.155.40.250 www.wordpress.org
+#192.229.144.127 s.w.org #cs287.wac.edgecastcdn.net
+#192.229.144.127 ts.w.org #cs287.wac.edgecastcdn.net
+
+## XDA developers
+#209.58.128.90 www.xda-developers.com
+#209.58.128.90 xda-developers.com
+#174.129.2.23 cdn.xda-developers.com
+#192.229.144.96 cdn1.xda-developers.com #cs261.wac.edgecastcdn.net
+#192.229.144.96 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net
+#192.229.144.96 cdn3.xda-developers.com #cs261.wac.edgecastcdn.net
+#192.229.144.96 cdn4.xda-developers.com #cs261.wac.edgecastcdn.net
+#192.229.144.96 cdn-www.xda-developers.com #cs261.wac.edgecastcdn.net
+#192.229.144.96 cs261.wac.edgecastcdn.net
+#68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
+#68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
+
