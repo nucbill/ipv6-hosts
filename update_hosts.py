@@ -99,15 +99,12 @@ class worker_thread(threading.Thread):
 
             flag = False
             if validate_domain(domain):
-                cname, ip = query_domain(domain, False)
+                cname, ip = query_domain(domain, False, config['dns'])
 
                 if ip == '' or ip in blackhole:
-                    cname, ip = query_domain(domain, True)
+                    cname, ip = query_domain(domain, True, config['dns'])
                     if ip == '' or ip in blackhole:
-		        tmp = config['dns']
-		        config['dns'] = '2001:470:20::2'
-		        cname, ip = query_domain(domain, True)
-			config['dns'] = tmp
+		        cname, ip = query_domain(domain, True, '2001:470:20::2')
 
                 if ip:
                     flag = True
@@ -160,9 +157,9 @@ class watcher_thread(threading.Thread):
 
             time.sleep(1)
 
-def query_domain(domain, tcp):
+def query_domain(domain, tcp, dns_server):
     cmd = "dig +short -6 %s @'%s' '%s'"\
-        % (config['querytype'], config['dns'], domain)
+        % (config['querytype'], dns_server, domain)
 
     if tcp:
         cmd = cmd + ' +tcp'
