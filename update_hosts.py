@@ -51,7 +51,7 @@ dns = {
 }
 
 config = {
-    'dns': dns['google_b'],
+    'dns': dns['he_net'],
     'infile': '',
     'outfile': '',
     'querytype': 'aaaa +tcp',
