@@ -54,7 +54,7 @@ config = {
     'dns': dns['google_b'],
     'infile': '',
     'outfile': '',
-    'querytype': 'aaaa',
+    'querytype': 'aaaa +tcp',
     'cname': False,
     'threadnum': 10
 }
